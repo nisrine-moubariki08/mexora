@@ -1,0 +1,20 @@
+2026-05-10 01:17:33 | INFO     | Logger initialisé → logs/etl_20260510_011733.log
+2026-05-10 01:17:35 | INFO     | Logger initialisé → logs/etl_20260510_011735.log
+2026-05-10 01:17:35 | INFO     | Logger initialisé → logs/etl_20260510_011735.log
+2026-05-10 01:17:35 | INFO     | Logger initialisé → logs/etl_20260510_011735.log
+2026-05-10 01:17:35 | INFO     | Logger initialisé → logs/etl_20260510_011735.log
+2026-05-10 01:17:35 | INFO     | Logger initialisé → logs/etl_20260510_011735.log
+2026-05-10 01:17:35 | INFO     | Logger initialisé → logs/etl_20260510_011735.log
+2026-05-10 01:17:35 | INFO     | Logger initialisé → logs/etl_20260510_011735.log
+2026-05-10 01:17:35 | INFO     | ============================================================
+2026-05-10 01:17:35 | INFO     | DÉMARRAGE PIPELINE ETL MEXORA
+2026-05-10 01:17:35 | INFO     | ============================================================
+2026-05-10 01:17:35 | INFO     | --- PHASE EXTRACT ---
+2026-05-10 01:17:35 | ERROR    | ERREUR PIPELINE : name 'FICHIER_COMMANDES' is not defined
+Traceback (most recent call last):
+  File "c:\Users\pcc\OneDrive\Documents\mexora_etl\main.py", line 41, in run_pipeline
+    df_commandes_raw = extract_commandes()
+  File "c:\Users\pcc\OneDrive\Documents\mexora_etl\extract\extractor.py", line 15, in extract_commandes
+    df = pd.read_csv(FICHIER_COMMANDES, dtype=str, encoding='latin-1')
+                     ^^^^^^^^^^^^^^^^^
+NameError: name 'FICHIER_COMMANDES' is not defined

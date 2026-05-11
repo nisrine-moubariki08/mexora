@@ -1,0 +1,1006 @@
+id_client,nom,prenom,email,date_naissance,sexe,ville,telephone,date_inscription,canal_acquisition
+C0001,Fassi,Laila,client1@gmail.com,1989-08-20,,Marrakech,0638682516,2023-06-08,Partenaire
+C0002,Benani,Omar,client2@gmail.com,1996-03-30,m,Casablanca,0622534217,2024-02-09,Ads
+C0003,Chraibi,Ahmed,client3@gmail.com,1954-02-23,f,TANGER,0673771720,2023-09-18,SEO
+C0004,Dahbi,Karim,client4@gmail.com,1994-05-09,female,Rabat,0642747037,2022-06-01,SEO
+C0005,Ghazi,Amina,client5@gmail.com,1965-10-12,F,Marrakech,0616740197,2023-07-25,Ads
+C0006,Hassani,Sara,client6@gmail.com,2017-10-04,m,Marrakech,0692228802,2024-01-07,Direct
+C0007,Chraibi,Laila,client7@gmail.com,1990-05-18,Femme,Tnja,0643183955,2023-10-15,Email
+C0008,Dahbi,Omar,client8@gmail.com,1989-06-18,,tanger,0648349783,2022-08-29,Email
+C0009,Chraibi,Youssef,client9@gmail.com,1970-09-30,F,Rabat,0630509175,2023-12-25,Ads
+C0010,Hassani,Karim,client10@invalid.com,1955-08-03,male,TANGER,0666390708,2023-02-03,Direct
+C0011,Ghazi,Laila,client11gmail.com,1950-07-13,female,Casablanca,0650079111,2024-02-11,Partenaire
+C0012,Dahbi,Laila,client12@gmail.com,1969-09-08,Homme,Tnja,0668496914,2023-05-13,SEO
+C0013,Chraibi,Laila,client13@gmail.com,1961-06-14,Homme,Tanger,0662884503,2023-08-30,Direct
+C0014,Chraibi,Laila,client14@gmail.com,1966-04-21,Homme,Tanger,0644917589,2023-01-24,Email
+C0015,El Amrani,Karim,client15@gmail.com,1972-08-19,Homme,tanger,0673123515,2022-01-20,Direct
+C0016,Benani,Ahmed,client16@invalid.com,2017-08-31,f,Tanger,0643189803,2022-07-24,SEO
+C0017,Benani,Amina,client17@gmail.com,1991-09-21,Femme,Tnja,0659512272,2022-06-21,Direct
+C0018,Chraibi,Omar,client18@gmail.com,1959-09-13,F,Tanger,0651870192,2023-08-13,Partenaire
+C0019,Dahbi,Fatima,client19@gmail.com,2012-07-19,F,Tnja,0690585882,2022-05-04,Direct
+C0020,Fassi,Fatima,client20@gmail.com,1995-05-24,Homme,Casablanca,0611698142,2023-03-07,Partenaire
+C0021,Hassani,Youssef,client21@gmail.com,1989-01-26,,TNG,0680027662,2023-10-29,Email
+C0022,Hassani,Karim,client22@gmail.com,2015-08-02,Femme,Tnja,0653258988,2022-09-09,SEO
+C0023,Ghazi,Sara,client23@gmail.com,1952-07-29,Femme,Marrakech,0653622663,2022-07-06,Partenaire
+C0024,El Amrani,Omar,client24@gmail.com,1999-11-12,0,Tanger,0679340535,2022-07-15,SEO
+C0025,Dahbi,Laila,client25@gmail.com,2007-12-12,male,Marrakech,0670152969,2022-01-18,SEO
+C0026,El Amrani,Sara,client26@gmail.com,1992-06-16,f,Casablanca,0667110154,2024-02-03,Direct
+C0027,El Amrani,Omar,client27@gmail.com,1970-09-07,1,tanger,0635848226,2022-11-20,SEO
+C0028,Dahbi,Amina,client28@gmail.com,2016-04-06,m,Marrakech,0647111151,2024-01-12,Direct
+C0029,Benani,Amina,client29@gmail.com,1976-07-30,1,TANGER,0658436637,2022-07-03,Email
+C0030,Alami,Ahmed,client30@invalid.com,1999-08-24,1,Tnja,0626948946,2023-10-16,Partenaire
+C0031,Hassani,Laila,client31gmail.com,1989-07-08,1,Casablanca,0634744872,2022-02-22,Email
+C0032,Ghazi,Laila,client32@gmail.com,1956-08-24,F,Tanger,0630364454,2022-06-02,Direct
+C0033,Benani,Karim,client33@gmail.com,2004-05-24,f,TANGER,0680138498,2023-01-25,Partenaire
+C0034,Ghazi,Omar,client34@gmail.com,2001-01-05,female,Tanger,0691823275,2024-01-28,SEO
+C0035,El Amrani,Fatima,client35@gmail.com,1964-02-03,f,TANGER,0633328859,2023-07-20,SEO
+C0036,Hassani,Omar,client36@gmail.com,1952-12-05,female,TANGER,0648668783,2023-12-25,Email
+C0037,Dahbi,Omar,client37@gmail.com,2006-01-28,,TANGER,0667061186,2022-04-28,Direct
+C0038,Chraibi,Fatima,client38@gmail.com,1955-05-09,1,TNG,0651286958,2023-09-02,Direct
+C0039,El Amrani,Karim,client39@gmail.com,1974-06-04,Femme,Marrakech,0668755000,2022-03-24,Direct
+C0040,El Amrani,Ahmed,client40@invalid.com,1958-03-12,0,TANGER,0687201917,2023-08-25,SEO
+C0041,Alami,Youssef,client41@gmail.com,1992-03-18,1,Marrakech,0647333543,2022-07-05,Direct
+C0042,Hassani,Sara,client42@gmail.com,1986-08-20,F,Casablanca,0653091709,2023-11-18,SEO
+C0043,El Amrani,Karim,client43@gmail.com,2018-03-25,Femme,Tanger,0671045700,2022-04-01,Email
+C0044,Alami,Laila,client44@gmail.com,1987-01-28,Homme,Tanger,0635176902,2023-06-15,Email
+C0045,Alami,Amina,client45@gmail.com,1973-12-16,Femme,TNG,0648658617,2023-03-25,Partenaire
+C0046,Dahbi,Youssef,client46@gmail.com,1977-11-17,female,Tanger,0684121929,2023-02-22,SEO
+C0047,Hassani,Fatima,client47@gmail.com,2008-02-10,F,TNG,0676890827,2024-01-04,Email
+C0048,Hassani,Amina,client48@gmail.com,1990-12-24,Femme,TNG,0661484043,2022-07-15,Direct
+C0049,El Amrani,Karim,client49@gmail.com,1980-06-29,F,Tnja,0610344303,2022-10-17,Email
+C0050,Hassani,Youssef,client50@gmail.com,1990-01-23,,Marrakech,0656321751,2022-12-07,Direct
+C0051,Dahbi,Amina,client51@gmail.com,2001-04-19,0,Rabat,0641348220,2024-03-05,Partenaire
+C0052,Ghazi,Youssef,client52@invalid.com,1994-06-09,Homme,Tanger,0626944487,2023-05-30,Direct
+C0053,Benani,Laila,client53@gmail.com,1951-05-18,Femme,TNG,0665026398,2023-11-02,Ads
+C0054,Fassi,Karim,client54@invalid.com,2008-04-19,1,tanger,0654099326,2023-11-22,Direct
+C0055,Alami,Fatima,client55@gmail.com,1971-01-23,Femme,Tnja,0640532691,2024-02-04,SEO
+C0056,Benani,Laila,client56@gmail.com,1964-12-04,,Tnja,0613885234,2022-02-17,Email
+C0057,Ghazi,Youssef,client57@gmail.com,1971-11-28,0,Rabat,0685957578,2023-11-30,Ads
+C0058,Dahbi,Laila,client58@gmail.com,2002-04-26,Homme,TNG,0641163805,2023-04-18,Email
+C0059,El Amrani,Youssef,client59@gmail.com,1956-08-17,Femme,Marrakech,0656381032,2023-08-25,Email
+C0060,Hassani,Omar,client60@gmail.com,1967-11-15,1,Rabat,0674855088,2022-04-20,Ads
+C0061,El Amrani,Ahmed,client61@gmail.com,2009-01-19,1,Rabat,0646840133,2022-01-09,Direct
+C0062,Hassani,Omar,client62@gmail.com,1970-08-24,M,Casablanca,0639394291,2023-10-14,Ads
+C0063,Chraibi,Fatima,client63@gmail.com,2006-04-17,,Tanger,0651464269,2023-03-28,SEO
+C0064,El Amrani,Sara,client64@gmail.com,2017-01-22,F,Rabat,0633574011,2022-07-25,Ads
+C0065,El Amrani,Youssef,client65@gmail.com,1973-01-20,0,Marrakech,0649613214,2024-02-04,Email
+C0066,Chraibi,Amina,client66@gmail.com,2010-09-04,F,Rabat,0684801233,2023-01-10,SEO
+C0067,Benani,Laila,client67gmail.com,1983-01-25,male,Tnja,0688458327,2023-01-26,Email
+C0068,Fassi,Amina,client68@gmail.com,2008-02-08,M,tanger,0695282470,2023-04-21,Email
+C0069,Alami,Omar,client69@gmail.com,1994-03-13,M,tanger,0623044889,2022-08-29,Direct
+C0070,Ghazi,Youssef,client70@gmail.com,1987-03-22,,tanger,0675679047,2023-09-23,Partenaire
+C0071,Dahbi,Laila,client71@gmail.com,1989-11-23,0,TANGER,0658678896,2022-04-12,Email
+C0072,Alami,Karim,client72@gmail.com,1974-10-02,0,TANGER,0626395999,2023-04-11,SEO
+C0073,Alami,Ahmed,client73@gmail.com,1979-12-03,female,TANGER,0626901217,2023-08-02,Ads
+C0074,Dahbi,Amina,client74@invalid.com,1979-06-24,f,TNG,0689991301,2022-01-03,Email
+C0075,El Amrani,Youssef,client75@gmail.com,1959-11-12,m,Tanger,0627690330,2022-01-16,Email
+C0076,Alami,Youssef,client76@gmail.com,1973-10-22,0,Tanger,0627013243,2024-01-30,Partenaire
+C0077,Hassani,Sara,client77@gmail.com,1996-01-17,Femme,tanger,0670667140,2023-05-31,Ads
+C0078,El Amrani,Laila,client78gmail.com,2007-09-19,,Tanger,0618163847,2023-05-06,Partenaire
+C0079,Benani,Fatima,client79@gmail.com,1978-11-24,Femme,TNG,0618815720,2022-05-10,Email
+C0080,Ghazi,Omar,client80@gmail.com,1990-09-15,0,Rabat,0623311507,2023-12-20,SEO
+C0081,Dahbi,Karim,client81@gmail.com,1990-07-06,male,TANGER,0665541117,2022-12-14,Partenaire
+C0082,Ghazi,Sara,client82@gmail.com,2009-09-02,0,Tnja,0660237832,2022-06-06,Partenaire
+C0083,Ghazi,Fatima,client83@invalid.com,2016-10-19,F,Casablanca,0627463800,2023-07-24,SEO
+C0084,Benani,Karim,client84@gmail.com,1981-09-21,0,Rabat,0616904975,2022-10-22,Direct
+C0085,Dahbi,Youssef,client85@gmail.com,2008-12-01,male,Marrakech,0640097636,2022-04-21,Email
+C0086,Dahbi,Karim,client86@gmail.com,2000-04-29,1,Tanger,0691737913,2023-11-05,Email
+C0087,Fassi,Sara,client87@invalid.com,1950-07-20,1,TNG,0629226889,2023-08-03,Partenaire
+C0088,Benani,Amina,client88@invalid.com,1983-10-02,M,Rabat,0670887307,2022-12-16,Ads
+C0089,Benani,Ahmed,client89@gmail.com,1963-12-17,female,TNG,0692924837,2022-02-20,SEO
+C0090,Hassani,Karim,client90@gmail.com,1974-07-05,Femme,TANGER,0678765957,2022-04-27,Email
+C0091,Hassani,Omar,client91@gmail.com,1954-01-28,,TANGER,0663051354,2023-09-06,SEO
+C0092,Chraibi,Omar,client92@invalid.com,1975-12-20,f,Casablanca,0626104026,2022-01-08,Partenaire
+C0093,Dahbi,Sara,client93@gmail.com,1956-06-19,Homme,Rabat,0615677713,2023-03-23,SEO
+C0094,Ghazi,Karim,client94@gmail.com,2013-08-26,0,Rabat,0648858073,2022-04-28,Partenaire
+C0095,Hassani,Sara,client95@invalid.com,1957-11-27,female,Rabat,0624208709,2022-09-07,Partenaire
+C0096,El Amrani,Sara,client96@gmail.com,1969-11-17,Homme,Casablanca,0632566390,2022-03-20,Direct
+C0097,Fassi,Sara,client97@gmail.com,2015-04-04,f,TNG,0641711468,2022-04-16,Ads
+C0098,Benani,Youssef,client98@gmail.com,2006-05-03,m,Marrakech,0672270726,2024-02-12,Direct
+C0099,Fassi,Sara,client99@gmail.com,1963-07-18,female,Marrakech,0619165226,2023-04-26,Partenaire
+C0100,Alami,Sara,client100@gmail.com,1995-07-08,female,tanger,0651662236,2023-04-18,Partenaire
+C0101,Benani,Fatima,client101@invalid.com,2005-03-05,1,Rabat,0672104107,2023-08-18,Direct
+C0102,Hassani,Amina,client102@gmail.com,1978-11-05,M,Marrakech,0677292380,2022-06-04,SEO
+C0103,Benani,Youssef,client103@gmail.com,1953-07-06,0,TANGER,0668754920,2023-03-26,Direct
+C0104,El Amrani,Karim,client104@gmail.com,1986-09-03,0,Casablanca,0690246882,2022-02-23,Email
+C0105,Ghazi,Omar,client105@invalid.com,1972-08-10,,TNG,0654743095,2022-03-25,Direct
+C0106,Ghazi,Youssef,client106@gmail.com,2003-05-21,1,tanger,0651551377,2023-07-27,Partenaire
+C0107,Benani,Karim,client107@gmail.com,1995-08-15,m,Casablanca,0612446861,2023-01-07,Email
+C0108,Dahbi,Amina,client108@gmail.com,1962-05-05,Femme,TNG,0620356922,2022-10-30,SEO
+C0109,Alami,Sara,client109@gmail.com,2005-06-12,male,TNG,0690161060,2023-01-21,Ads
+C0110,Chraibi,Laila,client110@gmail.com,1953-12-02,female,Rabat,0658895439,2023-11-24,Ads
+C0111,Dahbi,Amina,client111@gmail.com,1977-10-06,Femme,Marrakech,0636040410,2023-01-12,Direct
+C0112,Ghazi,Karim,client112@gmail.com,1964-07-16,1,TANGER,0691156554,2022-05-22,Email
+C0113,Benani,Fatima,client113@invalid.com,1975-07-29,0,tanger,0631516757,2022-10-07,Partenaire
+C0114,Benani,Amina,client114@gmail.com,1990-06-22,Homme,Casablanca,0613579612,2023-03-01,SEO
+C0115,Benani,Sara,client115@gmail.com,1970-02-22,Homme,Tanger,0652773159,2022-04-12,Email
+C0116,Hassani,Youssef,client116@gmail.com,2018-01-29,1,Marrakech,0670210270,2023-09-23,SEO
+C0117,Chraibi,Karim,client117gmail.com,1959-12-23,f,Tnja,0641895531,2022-11-05,SEO
+C0118,Hassani,Fatima,client118@invalid.com,1959-12-12,female,Marrakech,0690092958,2023-07-03,SEO
+C0119,El Amrani,Karim,client119@gmail.com,1950-02-21,m,Casablanca,0642287985,2023-08-08,Partenaire
+C0120,Fassi,Fatima,client120@gmail.com,1997-03-12,male,Tanger,0662405812,2023-04-27,SEO
+C0121,Alami,Sara,client121@gmail.com,1956-01-23,1,Casablanca,0642363373,2024-01-21,SEO
+C0122,Chraibi,Ahmed,client122@gmail.com,1981-08-10,0,Casablanca,0696274567,2022-06-29,Partenaire
+C0123,Chraibi,Fatima,client123@gmail.com,2014-03-29,m,Marrakech,0614963880,2022-10-28,Ads
+C0124,Fassi,Omar,client124@invalid.com,1996-03-28,M,Rabat,0682884346,2023-04-30,Email
+C0125,Fassi,Ahmed,client125@invalid.com,2008-10-30,1,Casablanca,0646670512,2022-05-08,Email
+C0126,Ghazi,Sara,client126@gmail.com,1966-10-05,Femme,Marrakech,0676776459,2023-01-12,Direct
+C0127,Benani,Karim,client127@gmail.com,2004-01-19,Homme,TNG,0683212334,2022-10-28,Email
+C0128,El Amrani,Laila,client128@gmail.com,2004-01-24,1,Rabat,0632366682,2023-12-08,Partenaire
+C0129,Ghazi,Omar,client129gmail.com,2007-05-16,0,Tanger,0620071854,2023-11-19,Partenaire
+C0130,Chraibi,Ahmed,client130@gmail.com,1962-10-23,,Marrakech,0614670638,2022-05-10,SEO
+C0131,Ghazi,Ahmed,client131@gmail.com,2004-04-14,0,TNG,0670387584,2023-01-15,Email
+C0132,Fassi,Karim,client132@gmail.com,1978-03-16,m,Tnja,0643502308,2022-04-27,SEO
+C0133,Benani,Omar,client133@gmail.com,1973-05-09,Homme,Marrakech,0638799154,2023-09-19,Email
+C0134,Benani,Youssef,client134@gmail.com,1956-08-23,f,Marrakech,0633173544,2024-01-01,Partenaire
+C0135,Fassi,Fatima,client135@gmail.com,1999-05-06,0,Tnja,0650259503,2022-06-11,Ads
+C0136,Dahbi,Youssef,client136@gmail.com,1971-03-29,F,Marrakech,0613527782,2023-01-05,Direct
+C0137,Chraibi,Fatima,client137@gmail.com,1955-11-25,male,Tnja,0663440127,2024-01-05,Partenaire
+C0138,Benani,Youssef,client138@gmail.com,1978-06-11,female,tanger,0670394554,2023-04-23,Direct
+C0139,Chraibi,Youssef,client139@gmail.com,1988-10-24,male,Tanger,0626664623,2023-06-15,Ads
+C0140,Fassi,Omar,client140@gmail.com,1957-01-28,f,Tnja,0636347197,2023-10-13,Direct
+C0141,Benani,Youssef,client141@gmail.com,2003-02-04,female,TNG,0632978158,2023-11-06,Direct
+C0142,Alami,Ahmed,client142@gmail.com,1957-04-15,female,Tanger,0696094462,2024-02-29,Direct
+C0143,Ghazi,Ahmed,client143@gmail.com,1994-09-06,female,Tnja,0696155337,2022-11-06,Partenaire
+C0144,El Amrani,Laila,client144@gmail.com,1956-07-19,Homme,Tanger,0631217198,2023-03-27,Partenaire
+C0145,Chraibi,Sara,client145@gmail.com,2014-06-13,female,Casablanca,0656354851,2023-02-13,Ads
+C0146,Fassi,Amina,client146@gmail.com,1991-11-07,F,tanger,0645899440,2023-04-06,Ads
+C0147,Ghazi,Amina,client147@gmail.com,1964-04-30,Homme,Casablanca,0687535841,2024-01-09,Email
+C0148,Hassani,Laila,client148@gmail.com,1977-09-06,male,Marrakech,0613110670,2022-04-03,Partenaire
+C0149,Fassi,Ahmed,client149@gmail.com,1954-07-15,f,Tnja,0676423575,2023-09-04,Partenaire
+C0150,Ghazi,Youssef,client150gmail.com,1973-09-23,F,Casablanca,0664123845,2023-01-10,SEO
+C0151,Fassi,Omar,client151@gmail.com,1956-08-06,f,Rabat,0677680031,2023-04-07,Direct
+C0152,Benani,Youssef,client152@gmail.com,1958-09-04,,Rabat,0660089832,2022-12-14,Direct
+C0153,Ghazi,Ahmed,client153@gmail.com,1954-01-24,f,Tanger,0628392710,2024-01-01,Email
+C0154,Chraibi,Sara,client154@gmail.com,2005-01-01,m,Casablanca,0631810655,2023-02-07,Direct
+C0155,Hassani,Omar,client155@gmail.com,1992-08-09,0,Tanger,0659440148,2022-12-06,SEO
+C0156,Alami,Laila,client156@gmail.com,1973-10-27,,TANGER,0616892773,2023-08-21,Partenaire
+C0157,Ghazi,Youssef,client157@gmail.com,2011-01-27,female,TANGER,0614237322,2023-08-10,SEO
+C0158,Chraibi,Karim,client158@gmail.com,2011-12-13,Homme,TANGER,0665079923,2023-05-29,Direct
+C0159,Chraibi,Amina,client159@gmail.com,2000-04-27,M,Casablanca,0698882576,2023-05-05,Direct
+C0160,Fassi,Sara,client160@gmail.com,2010-08-20,Femme,Tnja,0691883092,2023-05-11,Ads
+C0161,Dahbi,Omar,client161@gmail.com,1975-12-06,1,TANGER,0675632882,2022-11-21,Partenaire
+C0162,El Amrani,Fatima,client162@gmail.com,2001-06-13,1,Rabat,0662953249,2022-12-20,Ads
+C0163,Fassi,Laila,client163@gmail.com,2008-11-06,F,Tnja,0674300930,2022-08-08,Ads
+C0164,El Amrani,Youssef,client164@gmail.com,1959-10-20,male,TANGER,0642542167,2022-02-21,Direct
+C0165,Ghazi,Sara,client165@gmail.com,2014-05-11,F,Marrakech,0623494908,2023-11-29,Ads
+C0166,Ghazi,Laila,client166@invalid.com,1992-11-01,m,TANGER,0648553376,2022-11-25,Email
+C0167,Dahbi,Ahmed,client167@gmail.com,1965-09-15,F,Rabat,0633593960,2022-02-07,Partenaire
+C0168,Alami,Ahmed,client168@gmail.com,1976-10-08,1,tanger,0654968591,2022-10-19,Partenaire
+C0169,Chraibi,Laila,client169@gmail.com,1974-06-24,Femme,TANGER,0625119192,2022-12-05,Ads
+C0170,Alami,Sara,client170@gmail.com,1976-06-20,m,TANGER,0633554528,2023-09-18,Partenaire
+C0171,Ghazi,Fatima,client171@gmail.com,1966-07-30,F,TNG,0674082804,2022-11-28,Ads
+C0172,El Amrani,Sara,client172@invalid.com,1977-02-02,Femme,Tanger,0645105069,2023-11-01,Email
+C0173,Hassani,Omar,client173@gmail.com,1964-04-30,F,Rabat,0677447155,2023-12-22,Email
+C0174,Fassi,Amina,client174@gmail.com,1969-08-29,1,TNG,0674180488,2022-06-06,Partenaire
+C0175,Hassani,Amina,client175@gmail.com,2018-05-08,Homme,TANGER,0689968863,2022-03-25,Direct
+C0176,Benani,Ahmed,client176@gmail.com,1999-02-18,F,TANGER,0686866717,2023-07-04,Ads
+C0177,Benani,Amina,client177@gmail.com,2014-04-26,Femme,Marrakech,0622205980,2023-06-07,Partenaire
+C0178,Ghazi,Laila,client178@gmail.com,2000-08-04,male,Tanger,0685000490,2023-04-19,Email
+C0179,Dahbi,Fatima,client179@gmail.com,1954-01-24,M,Rabat,0656241881,2023-12-19,SEO
+C0180,Hassani,Ahmed,client180@gmail.com,1975-10-04,F,Rabat,0634156684,2024-02-27,Ads
+C0181,Ghazi,Sara,client181@gmail.com,1984-04-25,,Marrakech,0660666702,2023-01-20,SEO
+C0182,Chraibi,Sara,client182@gmail.com,1960-08-23,male,TNG,0682109613,2023-02-07,Direct
+C0183,Alami,Omar,client183@gmail.com,1991-07-16,M,Rabat,0681394920,2023-01-24,Ads
+C0184,Dahbi,Fatima,client184@gmail.com,1952-11-21,1,Rabat,0692533595,2024-02-24,SEO
+C0185,Alami,Laila,client185@gmail.com,2003-08-19,female,Tanger,0642847661,2024-01-29,SEO
+C0186,Alami,Youssef,client186@gmail.com,1995-03-17,f,Tnja,0641428626,2024-01-20,Direct
+C0187,Fassi,Amina,client187@gmail.com,1977-01-27,,TNG,0698612211,2023-06-18,Ads
+C0188,Chraibi,Karim,client188@gmail.com,1999-11-14,male,Marrakech,0616292676,2022-12-19,Partenaire
+C0189,Ghazi,Youssef,client189@gmail.com,1976-11-26,Homme,Rabat,0634679818,2024-02-12,Direct
+C0190,Chraibi,Laila,client190@gmail.com,1955-03-04,1,Rabat,0665902739,2023-07-25,Direct
+C0191,Fassi,Fatima,client191@gmail.com,1990-05-09,f,Casablanca,0622410307,2023-07-03,Ads
+C0192,Alami,Fatima,client192@invalid.com,1966-11-18,female,TANGER,0674343201,2022-08-02,Email
+C0193,Dahbi,Fatima,client193@gmail.com,2017-01-02,f,Marrakech,0642560305,2023-12-14,Direct
+C0194,Fassi,Omar,client194@gmail.com,1984-02-25,f,Marrakech,0681625307,2023-10-27,Email
+C0195,Hassani,Fatima,client195@gmail.com,2014-10-24,Femme,Marrakech,0652980983,2022-07-28,Email
+C0196,Chraibi,Ahmed,client196gmail.com,1973-05-25,f,Rabat,0649620038,2022-06-06,Ads
+C0197,Hassani,Sara,client197@gmail.com,1973-02-01,f,Marrakech,0696126771,2024-01-28,Partenaire
+C0198,Chraibi,Youssef,client198@gmail.com,2014-08-16,0,Marrakech,0634702473,2023-07-10,SEO
+C0199,Alami,Ahmed,client199@gmail.com,1986-12-31,F,TNG,0694651342,2022-08-25,SEO
+C0200,Hassani,Sara,client200gmail.com,1955-06-04,male,Marrakech,0698487646,2023-05-15,SEO
+C0201,Alami,Omar,client201@invalid.com,1998-01-24,M,Tnja,0612300840,2023-05-30,Partenaire
+C0202,Benani,Youssef,client202@gmail.com,1971-08-15,F,TANGER,0693185576,2023-06-24,Email
+C0203,Benani,Sara,client203@gmail.com,1986-06-05,Homme,Marrakech,0685833309,2022-09-07,Ads
+C0204,Alami,Fatima,client204@gmail.com,1986-05-12,F,Rabat,0660622842,2023-07-20,Partenaire
+C0205,Benani,Laila,client205invalid.com,1988-12-05,m,Casablanca,0685947990,2022-04-08,Direct
+C0206,Hassani,Omar,client206@gmail.com,1954-03-06,female,tanger,0647631028,2023-07-11,Direct
+C0207,Alami,Amina,client207@gmail.com,2002-08-31,0,TNG,0663458386,2022-03-20,Email
+C0208,Fassi,Karim,client208@gmail.com,2017-10-15,Homme,TNG,0620526386,2023-05-28,Email
+C0209,Fassi,Karim,client209@invalid.com,1979-04-13,F,Tanger,0695110541,2022-10-07,Partenaire
+C0210,Ghazi,Youssef,client210@gmail.com,2010-12-24,Homme,Rabat,0621501669,2024-03-01,Direct
+C0211,Benani,Omar,client211@gmail.com,1963-11-02,F,Rabat,0695080736,2022-06-07,Partenaire
+C0212,El Amrani,Laila,client212@gmail.com,1982-04-16,M,Tnja,0623721268,2022-05-16,SEO
+C0213,Ghazi,Fatima,client213@gmail.com,1952-05-10,male,tanger,0657501571,2023-07-22,SEO
+C0214,Alami,Omar,client214@gmail.com,1987-02-15,Homme,Rabat,0621368176,2024-01-13,Direct
+C0215,Chraibi,Karim,client215@gmail.com,1965-03-17,female,TNG,0646093692,2022-11-05,Email
+C0216,El Amrani,Karim,client216@gmail.com,1976-11-22,Homme,Marrakech,0620324210,2023-01-05,Email
+C0217,Dahbi,Laila,client217@gmail.com,1959-08-07,Femme,TNG,0650890504,2022-01-07,Partenaire
+C0218,Hassani,Sara,client218@gmail.com,1988-08-19,0,TNG,0650323741,2022-11-25,Direct
+C0219,Chraibi,Karim,client219@gmail.com,1978-08-19,0,Tnja,0694946730,2023-05-18,Direct
+C0220,Ghazi,Sara,client220@gmail.com,1960-03-20,1,TANGER,0689487366,2023-07-13,Ads
+C0221,Dahbi,Laila,client221@gmail.com,1976-02-20,Femme,tanger,0664914054,2023-11-21,Partenaire
+C0222,Chraibi,Karim,client222@gmail.com,1983-10-28,1,tanger,0670272714,2023-09-05,Partenaire
+C0223,Alami,Sara,client223@gmail.com,2012-12-12,Homme,tanger,0624679315,2024-02-27,Ads
+C0224,Alami,Karim,client224@gmail.com,2017-07-11,,Casablanca,0667774765,2022-04-19,SEO
+C0225,Dahbi,Laila,client225@invalid.com,1983-07-26,male,Rabat,0672151291,2024-03-01,Direct
+C0226,Hassani,Fatima,client226@gmail.com,1976-07-03,M,Rabat,0621523236,2022-04-29,Ads
+C0227,Hassani,Sara,client227@gmail.com,1992-09-19,f,tanger,0668809636,2024-01-10,Partenaire
+C0228,Alami,Sara,client228@gmail.com,2008-02-18,F,tanger,0632059232,2024-01-29,Ads
+C0229,Ghazi,Laila,client229@gmail.com,1970-10-20,0,Rabat,0694524999,2022-07-08,Ads
+C0230,Dahbi,Laila,client230@gmail.com,2003-02-17,M,Rabat,0662188655,2022-01-05,Ads
+C0231,Benani,Youssef,client231@gmail.com,1982-10-26,F,Casablanca,0636450861,2023-04-14,SEO
+C0232,Fassi,Karim,client232@gmail.com,2004-11-04,male,Rabat,0688786439,2022-04-27,Email
+C0233,El Amrani,Fatima,client233@gmail.com,2010-04-19,m,TNG,0652035079,2022-05-01,Ads
+C0234,Ghazi,Karim,client234@gmail.com,2003-07-05,m,TNG,0687149161,2023-01-28,Partenaire
+C0235,Chraibi,Youssef,client235@gmail.com,1993-12-05,,Tnja,0628830282,2022-07-11,Email
+C0236,Alami,Laila,client236@gmail.com,1962-04-01,0,TANGER,0661532114,2023-07-30,Direct
+C0237,Ghazi,Laila,client237@gmail.com,1993-11-04,Femme,TNG,0621095863,2023-08-02,SEO
+C0238,El Amrani,Amina,client238@gmail.com,1998-03-26,M,Tnja,0632576626,2024-03-10,Partenaire
+C0239,Benani,Fatima,client239@gmail.com,1974-01-13,Femme,Casablanca,0682751830,2024-02-14,SEO
+C0240,Ghazi,Fatima,client240@gmail.com,2016-01-11,f,TANGER,0649957816,2022-02-03,Partenaire
+C0241,Hassani,Fatima,client241@gmail.com,1971-04-05,F,TANGER,0688909809,2023-12-07,Email
+C0242,Chraibi,Youssef,client242@gmail.com,1968-07-15,Homme,TANGER,0617966873,2023-08-07,Email
+C0243,Fassi,Omar,client243@gmail.com,1975-12-16,m,Tnja,0679043610,2023-11-27,SEO
+C0244,Alami,Omar,client244@gmail.com,2008-11-04,Homme,TNG,0627809465,2022-09-13,Ads
+C0245,Ghazi,Laila,client245@gmail.com,1962-10-03,,Tnja,0694263610,2023-03-01,Partenaire
+C0246,Ghazi,Omar,client246@gmail.com,2012-04-29,F,Casablanca,0671028216,2023-05-15,Email
+C0247,Hassani,Sara,client247@gmail.com,1955-09-07,F,Rabat,0639236638,2023-03-16,Ads
+C0248,Fassi,Youssef,client248@gmail.com,2000-10-16,1,Marrakech,0656135950,2023-11-30,SEO
+C0249,Alami,Fatima,client249@invalid.com,1964-03-04,Femme,Marrakech,0671272827,2022-01-01,Partenaire
+C0250,El Amrani,Youssef,client250@gmail.com,1974-08-02,m,tanger,0697857309,2023-01-05,Email
+C0251,Chraibi,Ahmed,client251@invalid.com,1985-07-23,,Tnja,0641426254,2023-03-16,SEO
+C0252,Benani,Youssef,client252gmail.com,2003-04-06,Femme,TANGER,0679718627,2023-11-28,Partenaire
+C0253,Ghazi,Youssef,client253@invalid.com,1992-11-09,F,tanger,0640728728,2023-01-28,SEO
+C0254,Fassi,Omar,client254@gmail.com,1962-04-21,0,Rabat,0627870584,2023-10-19,Ads
+C0255,Chraibi,Laila,client255@invalid.com,1981-07-04,female,TANGER,0694299475,2024-02-06,Ads
+C0256,Dahbi,Fatima,client256@gmail.com,1959-01-06,Femme,TNG,0626529882,2023-08-27,Partenaire
+C0257,Dahbi,Omar,client257@gmail.com,2007-10-31,m,tanger,0643308414,2023-07-21,Direct
+C0258,El Amrani,Amina,client258@gmail.com,1996-06-13,M,TANGER,0662579931,2022-10-30,SEO
+C0259,Hassani,Karim,client259@gmail.com,1960-02-12,f,TANGER,0677052833,2023-10-16,Direct
+C0260,Fassi,Sara,client260@invalid.com,1961-11-03,M,Rabat,0686286724,2023-03-07,Email
+C0261,Benani,Ahmed,client261@gmail.com,2002-09-11,Femme,tanger,0611851322,2022-09-26,Ads
+C0262,El Amrani,Karim,client262@invalid.com,1988-01-01,Homme,Rabat,0621063273,2023-10-18,Direct
+C0263,El Amrani,Fatima,client263@gmail.com,1995-11-15,F,TANGER,0630854365,2023-07-04,Email
+C0264,Benani,Omar,client264@gmail.com,2012-09-06,,Rabat,0642029368,2022-03-01,Ads
+C0265,Alami,Omar,client265@invalid.com,2009-10-04,Femme,TNG,0626031369,2022-01-13,Ads
+C0266,El Amrani,Youssef,client266@gmail.com,1983-05-13,0,TNG,0646072958,2024-01-21,SEO
+C0267,El Amrani,Fatima,client267gmail.com,1973-08-04,Homme,tanger,0676591799,2023-04-12,Direct
+C0268,Chraibi,Sara,client268@gmail.com,1964-02-11,female,Tnja,0623811663,2023-08-11,SEO
+C0269,Alami,Amina,client269@gmail.com,1954-02-15,M,Marrakech,0658852098,2023-01-28,Ads
+C0270,Ghazi,Amina,client270@gmail.com,1978-11-14,M,TANGER,0665869014,2024-01-08,Email
+C0271,Benani,Ahmed,client271@gmail.com,1966-02-02,0,TANGER,0679226031,2022-02-17,Partenaire
+C0272,El Amrani,Sara,client272@invalid.com,1957-10-01,1,Marrakech,0611069604,2023-01-13,Ads
+C0273,Dahbi,Laila,client273@gmail.com,1983-01-15,female,Marrakech,0636229153,2024-01-21,Direct
+C0274,Ghazi,Ahmed,client274@gmail.com,1970-11-26,M,Casablanca,0695354668,2023-12-12,SEO
+C0275,Ghazi,Omar,client275gmail.com,1959-04-30,,TANGER,0681110496,2022-09-01,Partenaire
+C0276,El Amrani,Fatima,client276@gmail.com,1953-12-09,m,TANGER,0679760901,2023-02-27,Email
+C0277,Benani,Youssef,client277@gmail.com,2007-03-03,female,Rabat,0620043577,2023-08-30,Direct
+C0278,Dahbi,Omar,client278@invalid.com,1973-06-01,m,Casablanca,0662741214,2023-12-19,Email
+C0279,Dahbi,Youssef,client279@gmail.com,2002-06-16,F,tanger,0630858851,2022-04-19,Ads
+C0280,Fassi,Amina,client280@gmail.com,1990-07-18,F,Tnja,0672189327,2022-09-29,SEO
+C0281,Alami,Amina,client281@invalid.com,1979-05-30,1,TNG,0622242388,2023-12-30,Ads
+C0282,El Amrani,Omar,client282@gmail.com,1965-08-07,M,Tanger,0664276605,2023-04-09,Direct
+C0283,Benani,Youssef,client283@gmail.com,1960-11-23,Femme,Tanger,0618277097,2024-03-10,Ads
+C0284,Benani,Omar,client284@gmail.com,1956-09-23,0,Tanger,0618653290,2022-07-22,Partenaire
+C0285,Benani,Ahmed,client285@gmail.com,1991-05-11,0,Tanger,0632547129,2023-08-11,Partenaire
+C0286,Ghazi,Karim,client286@gmail.com,1965-07-03,M,Casablanca,0638818707,2022-07-11,Email
+C0287,Dahbi,Omar,client287@gmail.com,1994-10-04,M,Rabat,0683912181,2023-05-06,SEO
+C0288,Dahbi,Amina,client288@invalid.com,2006-08-03,Homme,Tanger,0661338023,2024-03-11,Email
+C0289,Fassi,Karim,client289@gmail.com,1974-04-06,0,TNG,0613498112,2022-11-23,Direct
+C0290,Alami,Laila,client290@gmail.com,1997-07-01,1,Casablanca,0688381665,2022-08-27,Ads
+C0291,Alami,Amina,client291@gmail.com,2001-08-25,1,Rabat,0657621071,2022-06-27,Ads
+C0292,Alami,Sara,client292@gmail.com,2000-12-04,0,TNG,0685579195,2022-07-12,Partenaire
+C0293,Benani,Ahmed,client293@gmail.com,1970-11-14,M,TANGER,0612674689,2023-06-24,Partenaire
+C0294,Chraibi,Sara,client294@invalid.com,2014-04-27,f,TNG,0653431355,2022-03-02,SEO
+C0295,Benani,Sara,client295@gmail.com,1956-07-04,m,Casablanca,0698870866,2023-02-10,Direct
+C0296,Chraibi,Karim,client296@gmail.com,2007-05-09,m,Marrakech,0697131500,2022-11-21,Ads
+C0297,Fassi,Amina,client297@gmail.com,2009-09-16,female,TNG,0660785855,2022-11-11,Email
+C0298,Ghazi,Ahmed,client298@gmail.com,1966-05-03,female,Casablanca,0692058189,2022-08-15,Direct
+C0299,Benani,Amina,client299@gmail.com,1981-02-11,0,Casablanca,0632533467,2023-10-14,SEO
+C0300,Hassani,Ahmed,client300@gmail.com,1973-10-17,0,TANGER,0643492807,2023-12-11,SEO
+C0301,Alami,Karim,client301@gmail.com,1989-04-25,M,Rabat,0632325567,2023-02-28,Partenaire
+C0302,Benani,Laila,client302@gmail.com,2001-11-10,Homme,TANGER,0631831387,2023-04-08,SEO
+C0303,Fassi,Omar,client303gmail.com,1959-05-25,M,tanger,0655876720,2022-06-24,Partenaire
+C0304,Fassi,Laila,client304@gmail.com,2013-03-16,F,Tanger,0667891237,2023-11-01,Ads
+C0305,Benani,Sara,client305@gmail.com,1968-06-10,M,TANGER,0664932613,2023-12-15,Direct
+C0306,El Amrani,Omar,client306@gmail.com,1971-04-24,1,tanger,0616661956,2023-02-07,Direct
+C0307,Fassi,Ahmed,client307@gmail.com,1988-05-12,M,tanger,0649533757,2023-11-09,Direct
+C0308,Chraibi,Omar,client308@gmail.com,1957-05-08,f,Marrakech,0625503345,2022-11-12,Partenaire
+C0309,Benani,Karim,client309@gmail.com,1966-08-03,1,Casablanca,0661196706,2023-01-14,Ads
+C0310,El Amrani,Amina,client310@gmail.com,1974-02-04,Femme,Tanger,0630284415,2024-02-10,SEO
+C0311,Ghazi,Amina,client311@invalid.com,1999-09-01,male,Tanger,0661956500,2023-06-20,Partenaire
+C0312,Dahbi,Laila,client312@gmail.com,1976-10-23,Femme,tanger,0662989744,2024-01-02,SEO
+C0313,Chraibi,Fatima,client313@gmail.com,2017-12-06,female,Marrakech,0633203422,2022-06-21,Ads
+C0314,Benani,Karim,client314@gmail.com,1968-02-12,Homme,TNG,0689865944,2022-09-22,Email
+C0315,Benani,Karim,client315@gmail.com,1999-11-30,F,Rabat,0684095459,2022-11-30,Email
+C0316,Ghazi,Fatima,client316@gmail.com,1987-03-08,M,TNG,0629891032,2023-08-04,Direct
+C0317,Benani,Fatima,client317@gmail.com,1975-09-01,F,Casablanca,0665148727,2022-09-28,Partenaire
+C0318,Alami,Youssef,client318@gmail.com,1974-09-16,Femme,Rabat,0629307578,2023-09-26,Direct
+C0319,Fassi,Amina,client319@gmail.com,1954-06-04,Homme,Marrakech,0646048781,2023-01-17,SEO
+C0320,El Amrani,Laila,client320@gmail.com,2012-06-16,1,tanger,0640595926,2022-05-18,Email
+C0321,El Amrani,Karim,client321@gmail.com,2004-04-10,0,tanger,0635224301,2023-03-29,Ads
+C0322,Fassi,Ahmed,client322@gmail.com,1996-03-24,Femme,TNG,0618806960,2022-11-15,Direct
+C0323,Alami,Youssef,client323@gmail.com,1967-04-18,male,TANGER,0617734634,2022-09-13,SEO
+C0324,El Amrani,Sara,client324@gmail.com,1991-08-25,f,Rabat,0695283260,2022-05-07,SEO
+C0325,Chraibi,Laila,client325@gmail.com,2002-08-26,Femme,Casablanca,0656204319,2022-06-17,Email
+C0326,Alami,Karim,client326@gmail.com,1954-06-15,1,TNG,0686807176,2024-03-09,Ads
+C0327,Dahbi,Omar,client327@gmail.com,2008-06-16,,Rabat,0678891441,2022-01-21,SEO
+C0328,Alami,Amina,client328@gmail.com,1972-08-23,m,Tnja,0696267144,2022-10-09,Partenaire
+C0329,El Amrani,Amina,client329@gmail.com,1991-11-14,Femme,Tnja,0679878835,2023-10-01,Partenaire
+C0330,Fassi,Omar,client330gmail.com,1976-10-11,,tanger,0674657836,2022-03-07,Email
+C0331,El Amrani,Omar,client331@gmail.com,1966-11-25,1,TNG,0679429969,2024-02-23,Ads
+C0332,Ghazi,Sara,client332@gmail.com,2011-01-28,female,TNG,0613416548,2023-11-03,Partenaire
+C0333,Ghazi,Karim,client333@gmail.com,2016-02-05,Homme,Tanger,0688252116,2023-12-27,Direct
+C0334,Hassani,Sara,client334@gmail.com,1995-07-07,f,Tnja,0632815223,2023-11-05,Direct
+C0335,El Amrani,Youssef,client335@gmail.com,2010-12-24,m,Casablanca,0697836731,2022-04-02,Ads
+C0336,Ghazi,Sara,client336@gmail.com,1983-05-07,1,Tnja,0688593968,2022-10-29,Partenaire
+C0337,Benani,Laila,client337@gmail.com,1967-06-15,,tanger,0661226775,2023-06-27,Email
+C0338,Chraibi,Amina,client338@gmail.com,1980-09-28,m,Rabat,0686424055,2023-04-14,Ads
+C0339,Hassani,Sara,client339@gmail.com,2006-08-12,F,TNG,0652065724,2023-10-12,SEO
+C0340,Chraibi,Laila,client340@invalid.com,1957-11-24,m,TNG,0692474074,2023-03-21,Partenaire
+C0341,Alami,Ahmed,client341@gmail.com,1997-11-20,Homme,TANGER,0660076822,2022-01-15,Email
+C0342,Alami,Amina,client342@gmail.com,1970-04-20,M,Casablanca,0651888314,2022-05-13,SEO
+C0343,Benani,Ahmed,client343@gmail.com,1976-10-02,m,Tnja,0671193393,2024-01-16,Direct
+C0344,Chraibi,Sara,client344@gmail.com,1993-12-23,,Casablanca,0635290114,2022-06-18,Partenaire
+C0345,Dahbi,Ahmed,client345@invalid.com,2002-11-27,m,TNG,0626530521,2023-01-11,SEO
+C0346,Alami,Ahmed,client346@gmail.com,2009-05-22,male,tanger,0697720360,2022-01-21,SEO
+C0347,Benani,Omar,client347@gmail.com,1992-07-24,Homme,TNG,0637581060,2023-12-13,SEO
+C0348,El Amrani,Youssef,client348@gmail.com,1987-07-30,,tanger,0678663747,2024-01-07,Direct
+C0349,Hassani,Amina,client349@gmail.com,2004-08-20,F,TANGER,0645298445,2023-06-20,Ads
+C0350,Alami,Laila,client350@gmail.com,1968-08-19,m,Marrakech,0654372866,2022-08-29,SEO
+C0351,Hassani,Youssef,client351@invalid.com,1958-01-30,F,tanger,0623594977,2022-09-20,Ads
+C0352,Hassani,Ahmed,client352@gmail.com,1958-12-15,1,TNG,0615294153,2022-10-25,Email
+C0353,Benani,Ahmed,client353@gmail.com,1950-11-13,F,TNG,0699034004,2023-10-25,Ads
+C0354,El Amrani,Fatima,client354@gmail.com,1983-06-07,female,Casablanca,0634544318,2022-04-27,Partenaire
+C0355,Hassani,Karim,client355@gmail.com,2008-03-18,Homme,TNG,0625174194,2022-05-16,SEO
+C0356,Ghazi,Laila,client356@gmail.com,2001-01-16,F,Marrakech,0634328380,2023-09-18,Partenaire
+C0357,Chraibi,Laila,client357@gmail.com,1993-10-16,,tanger,0665201639,2023-03-28,SEO
+C0358,Dahbi,Sara,client358@invalid.com,1996-07-27,M,tanger,0668095862,2023-11-09,Ads
+C0359,Ghazi,Youssef,client359@gmail.com,2000-02-03,,Tanger,0611562947,2023-10-21,Ads
+C0360,Chraibi,Fatima,client360@gmail.com,2017-05-31,Femme,Marrakech,0653034742,2022-09-04,Email
+C0361,Ghazi,Karim,client361@gmail.com,1971-01-31,f,tanger,0671618633,2023-03-31,Direct
+C0362,Fassi,Fatima,client362@gmail.com,1994-08-15,Femme,Tanger,0623776553,2023-02-18,Partenaire
+C0363,El Amrani,Amina,client363@invalid.com,2008-09-22,F,Marrakech,0655748676,2023-01-08,SEO
+C0364,Hassani,Sara,client364@gmail.com,2014-03-25,0,Marrakech,0625303956,2022-04-10,Ads
+C0365,El Amrani,Sara,client365@invalid.com,2012-12-27,,tanger,0616144233,2022-06-18,Partenaire
+C0366,Benani,Omar,client366@gmail.com,2004-10-20,Homme,TANGER,0635171649,2022-05-04,Partenaire
+C0367,Fassi,Fatima,client367@gmail.com,2017-12-05,f,Rabat,0616241172,2023-10-11,Direct
+C0368,Chraibi,Laila,client368@gmail.com,1950-05-23,Femme,Tanger,0684252780,2023-03-20,Direct
+C0369,Chraibi,Youssef,client369@gmail.com,1959-04-17,m,Rabat,0698251083,2023-09-07,Direct
+C0370,Ghazi,Amina,client370@gmail.com,1974-07-19,Homme,Rabat,0656017729,2022-10-29,Partenaire
+C0371,El Amrani,Sara,client371@gmail.com,2013-11-12,female,TANGER,0636962876,2022-08-03,Direct
+C0372,Chraibi,Youssef,client372@gmail.com,1995-03-17,,Casablanca,0625489430,2024-02-19,Email
+C0373,Ghazi,Omar,client373@gmail.com,1987-11-23,,Tanger,0680159631,2022-04-20,SEO
+C0374,Dahbi,Omar,client374@gmail.com,2017-04-21,M,TNG,0648468887,2023-12-01,Email
+C0375,Dahbi,Ahmed,client375@gmail.com,1982-03-07,1,Marrakech,0623754633,2023-09-23,Direct
+C0376,Ghazi,Amina,client376@gmail.com,1995-11-02,male,Tnja,0699186817,2022-02-18,Partenaire
+C0377,Fassi,Ahmed,client377@gmail.com,1951-03-01,,Tnja,0637257905,2023-09-28,Partenaire
+C0378,Fassi,Amina,client378@gmail.com,2015-01-13,,TANGER,0649483865,2023-04-05,Ads
+C0379,Benani,Karim,client379@gmail.com,1953-08-24,m,Rabat,0647461811,2023-07-24,Email
+C0380,Alami,Sara,client380@gmail.com,1991-11-02,1,TNG,0615360735,2022-06-07,Email
+C0381,El Amrani,Laila,client381@gmail.com,2001-05-18,,Casablanca,0619781894,2023-12-26,Email
+C0382,Benani,Youssef,client382@gmail.com,1987-04-26,male,Rabat,0622340723,2022-12-24,Ads
+C0383,Fassi,Omar,client383@gmail.com,1969-08-07,0,Marrakech,0685341065,2024-02-10,SEO
+C0384,Dahbi,Ahmed,client384@gmail.com,2011-03-27,f,Casablanca,0661186964,2022-04-27,Partenaire
+C0385,Fassi,Laila,client385@gmail.com,1993-09-03,M,Tanger,0649786693,2023-10-30,Ads
+C0386,Chraibi,Ahmed,client386@gmail.com,2006-03-31,F,tanger,0638290610,2023-11-18,Ads
+C0387,Dahbi,Karim,client387@gmail.com,2008-01-03,F,tanger,0630636590,2022-01-25,Partenaire
+C0388,Alami,Youssef,client388gmail.com,1972-08-07,F,tanger,0687170132,2022-08-22,Email
+C0389,Ghazi,Sara,client389@gmail.com,1951-07-08,Homme,Rabat,0625878730,2023-07-02,SEO
+C0390,Alami,Fatima,client390@gmail.com,1982-02-03,female,tanger,0648901209,2023-12-04,Email
+C0391,Ghazi,Karim,client391@gmail.com,2009-04-11,Femme,Tanger,0673617549,2022-06-10,Direct
+C0392,El Amrani,Youssef,client392@gmail.com,1976-09-27,male,Casablanca,0611496555,2023-07-21,Direct
+C0393,Ghazi,Fatima,client393gmail.com,1977-05-03,female,TANGER,0656150987,2022-08-05,Partenaire
+C0394,Chraibi,Youssef,client394@gmail.com,1969-10-22,m,Tnja,0636082023,2022-04-28,Ads
+C0395,Hassani,Fatima,client395@gmail.com,1976-01-29,M,tanger,0643646722,2022-04-11,Ads
+C0396,Fassi,Youssef,client396@gmail.com,2010-03-24,0,TANGER,0623427820,2022-10-19,Direct
+C0397,Hassani,Sara,client397@invalid.com,2005-04-18,Femme,Tnja,0688405961,2022-06-06,Direct
+C0398,Chraibi,Ahmed,client398@gmail.com,1978-02-06,Homme,TANGER,0639732676,2023-12-31,Partenaire
+C0399,Fassi,Laila,client399@gmail.com,1991-07-11,,Marrakech,0658149482,2024-03-04,Email
+C0400,Benani,Omar,client400@gmail.com,1962-07-24,,TANGER,0645330756,2024-01-22,SEO
+C0401,Alami,Karim,client401@gmail.com,2002-12-08,male,TANGER,0614919926,2023-07-19,Email
+C0402,Chraibi,Sara,client402@gmail.com,1985-03-19,Femme,TANGER,0689134873,2024-01-21,Email
+C0403,Ghazi,Sara,client403@gmail.com,1995-01-20,F,Tanger,0698943201,2022-09-02,Direct
+C0404,Hassani,Youssef,client404@gmail.com,1966-01-27,m,TNG,0674894729,2023-01-03,SEO
+C0405,El Amrani,Sara,client405@gmail.com,1970-12-30,F,Tanger,0699736040,2022-07-31,Direct
+C0406,Hassani,Ahmed,client406@gmail.com,1953-07-31,Femme,Casablanca,0623854626,2023-12-22,Direct
+C0407,Chraibi,Karim,client407@gmail.com,2008-08-23,1,Rabat,0659029303,2023-08-25,SEO
+C0408,Ghazi,Sara,client408@gmail.com,1980-12-15,f,Marrakech,0674707720,2023-09-11,SEO
+C0409,Dahbi,Fatima,client409@gmail.com,1996-02-29,m,Tnja,0638389345,2022-06-03,Ads
+C0410,Dahbi,Karim,client410@gmail.com,1979-08-17,F,tanger,0674628070,2023-11-23,Partenaire
+C0411,Ghazi,Ahmed,client411@gmail.com,1971-11-11,,Tanger,0627164449,2023-08-11,Direct
+C0412,Chraibi,Ahmed,client412@gmail.com,1964-12-03,M,Tnja,0634164229,2023-06-14,Partenaire
+C0413,El Amrani,Fatima,client413@gmail.com,1969-06-07,M,Marrakech,0691406527,2023-04-28,Partenaire
+C0414,Chraibi,Youssef,client414@gmail.com,2005-11-29,female,Tnja,0632511225,2024-01-12,Email
+C0415,Dahbi,Karim,client415@gmail.com,1984-07-31,F,TNG,0624572034,2022-01-17,Ads
+C0416,Ghazi,Youssef,client416@gmail.com,2004-04-28,,tanger,0633813202,2023-05-03,Direct
+C0417,Benani,Fatima,client417@gmail.com,1993-04-07,male,TNG,0690996996,2023-07-07,SEO
+C0418,Ghazi,Karim,client418@gmail.com,1983-03-25,,Tanger,0681110769,2023-03-16,Ads
+C0419,Fassi,Fatima,client419@gmail.com,1988-03-04,Homme,TNG,0644160831,2023-05-04,Ads
+C0420,Ghazi,Omar,client420@gmail.com,1966-12-16,female,Tanger,0610954835,2023-08-15,Direct
+C0421,Dahbi,Sara,client421gmail.com,1986-09-06,,Casablanca,0624305357,2022-06-08,Partenaire
+C0422,Ghazi,Sara,client422@gmail.com,2004-11-23,male,Tnja,0663345392,2024-02-13,Ads
+C0423,Chraibi,Sara,client423@gmail.com,2000-02-28,Femme,Marrakech,0644061458,2022-11-11,Direct
+C0424,Benani,Amina,client424@gmail.com,1990-01-25,m,TNG,0623459168,2022-08-08,Direct
+C0425,Alami,Youssef,client425@gmail.com,1984-11-28,male,Tanger,0622225702,2022-05-29,Partenaire
+C0426,El Amrani,Amina,client426@gmail.com,1983-04-09,F,tanger,0691742470,2022-02-08,Partenaire
+C0427,El Amrani,Ahmed,client427@gmail.com,1965-09-22,,Marrakech,0668917831,2022-01-11,Ads
+C0428,El Amrani,Amina,client428@gmail.com,1953-01-06,male,TANGER,0692569402,2022-06-23,SEO
+C0429,Benani,Omar,client429@gmail.com,1985-11-01,m,Casablanca,0699880518,2023-02-09,Partenaire
+C0430,Benani,Omar,client430@gmail.com,2015-02-23,F,Casablanca,0656637316,2022-10-11,Ads
+C0431,Alami,Omar,client431@gmail.com,1965-09-14,Homme,Rabat,0677946127,2022-04-20,Direct
+C0432,El Amrani,Omar,client432@invalid.com,2012-04-12,F,Marrakech,0660610858,2023-07-31,Partenaire
+C0433,Hassani,Ahmed,client433@gmail.com,1993-03-29,Femme,tanger,0644603983,2022-03-11,Partenaire
+C0434,Dahbi,Sara,client434@gmail.com,1987-01-01,,Casablanca,0679324022,2023-07-03,SEO
+C0435,Benani,Karim,client435@gmail.com,2010-06-10,1,Casablanca,0620204415,2023-07-22,Ads
+C0436,El Amrani,Youssef,client436@gmail.com,2016-12-10,female,TANGER,0676974557,2024-01-25,Ads
+C0437,Dahbi,Amina,client437@gmail.com,1968-03-11,1,TANGER,0693026670,2022-12-31,Ads
+C0438,Hassani,Ahmed,client438@gmail.com,1998-07-31,F,Tanger,0674732147,2023-01-16,Direct
+C0439,El Amrani,Laila,client439@gmail.com,1966-05-29,female,Tnja,0663402482,2022-08-16,Direct
+C0440,Hassani,Ahmed,client440@gmail.com,1995-01-30,Homme,Casablanca,0662843790,2023-12-04,Ads
+C0441,Hassani,Sara,client441@gmail.com,2011-11-01,male,Tanger,0611586450,2023-11-22,Ads
+C0442,El Amrani,Youssef,client442@gmail.com,1999-03-20,0,Tnja,0641828278,2022-10-03,Partenaire
+C0443,Hassani,Karim,client443@gmail.com,1968-11-20,m,Rabat,0659970552,2023-01-09,Partenaire
+C0444,Dahbi,Fatima,client444@gmail.com,2014-09-01,m,Tnja,0641649234,2023-07-23,Partenaire
+C0445,Hassani,Ahmed,client445@gmail.com,1965-11-05,m,Rabat,0677054885,2022-05-18,Direct
+C0446,El Amrani,Omar,client446@gmail.com,2000-06-07,Femme,Tanger,0663472598,2022-04-12,Ads
+C0447,Benani,Laila,client447@invalid.com,2016-10-19,Femme,Casablanca,0644865621,2023-01-05,Email
+C0448,Fassi,Ahmed,client448@gmail.com,1986-12-10,1,tanger,0657122567,2023-11-27,Direct
+C0449,Chraibi,Omar,client449@gmail.com,1981-11-10,,Casablanca,0678510704,2023-05-15,Partenaire
+C0450,Hassani,Youssef,client450@gmail.com,1965-01-13,1,Casablanca,0666615250,2023-10-09,Direct
+C0451,Benani,Youssef,client451@gmail.com,1980-10-29,F,TANGER,0652074850,2022-11-21,Email
+C0452,El Amrani,Laila,client452@gmail.com,1982-08-01,Homme,Marrakech,0665564671,2022-06-21,Ads
+C0453,El Amrani,Fatima,client453@gmail.com,1968-11-22,f,TNG,0663290556,2022-04-16,SEO
+C0454,Alami,Ahmed,client454@invalid.com,1985-08-14,male,tanger,0623949034,2022-09-26,Direct
+C0455,El Amrani,Amina,client455@gmail.com,1972-03-12,Homme,Tnja,0669479985,2023-10-04,Ads
+C0456,Alami,Sara,client456@gmail.com,1979-03-06,M,Marrakech,0672705646,2023-07-08,Email
+C0457,Chraibi,Laila,client457@gmail.com,2006-08-13,male,Rabat,0680257585,2023-10-18,Direct
+C0458,Dahbi,Fatima,client458@gmail.com,1989-08-22,male,Tnja,0659094606,2023-02-27,Email
+C0459,Chraibi,Sara,client459gmail.com,1975-09-23,male,Marrakech,0681819757,2022-01-09,Partenaire
+C0460,Ghazi,Omar,client460@gmail.com,2003-07-24,M,TANGER,0610968781,2023-07-16,Email
+C0461,Ghazi,Amina,client461@gmail.com,1964-08-25,Homme,Rabat,0660782359,2022-08-14,Email
+C0462,El Amrani,Omar,client462@invalid.com,2008-03-05,male,Tnja,0665419020,2022-07-12,SEO
+C0463,Hassani,Laila,client463@gmail.com,1974-06-01,,Marrakech,0635204672,2022-11-25,SEO
+C0464,Chraibi,Fatima,client464@gmail.com,1975-04-24,M,Tnja,0626782477,2024-01-03,Partenaire
+C0465,Alami,Laila,client465@gmail.com,1969-06-26,m,Casablanca,0666404064,2022-11-16,Partenaire
+C0466,Fassi,Fatima,client466@gmail.com,2017-05-03,M,TNG,0617521339,2022-09-30,Partenaire
+C0467,El Amrani,Karim,client467@invalid.com,1951-02-18,f,tanger,0643415162,2023-01-30,Partenaire
+C0468,Hassani,Fatima,client468@gmail.com,1996-10-02,f,TANGER,0673461570,2023-02-03,Email
+C0469,Benani,Omar,client469@gmail.com,1993-03-04,M,Tnja,0636672234,2023-01-05,SEO
+C0470,Dahbi,Karim,client470@gmail.com,1979-02-11,F,Tanger,0632462726,2022-10-10,Direct
+C0471,Alami,Laila,client471@gmail.com,2011-10-05,M,TNG,0659848284,2024-02-29,SEO
+C0472,Fassi,Ahmed,client472@gmail.com,1955-05-13,,Casablanca,0696513378,2022-06-07,Direct
+C0473,Fassi,Sara,client473@gmail.com,1989-05-11,f,TANGER,0612865928,2023-12-07,Partenaire
+C0474,Hassani,Laila,client474@gmail.com,2000-02-26,M,Tnja,0682844534,2023-12-15,Partenaire
+C0475,Fassi,Laila,client475@gmail.com,1974-09-13,0,TNG,0619244458,2023-06-28,Ads
+C0476,Fassi,Laila,client476@gmail.com,1950-01-24,male,Rabat,0634901990,2022-01-20,Direct
+C0477,Fassi,Fatima,client477@gmail.com,2009-01-21,f,Rabat,0635483846,2023-06-21,Partenaire
+C0478,Fassi,Karim,client478@gmail.com,2007-07-02,1,Casablanca,0624826245,2022-04-09,Direct
+C0479,Chraibi,Ahmed,client479gmail.com,1968-02-17,m,tanger,0675145297,2022-07-16,SEO
+C0480,Hassani,Omar,client480@invalid.com,1954-05-28,Homme,Casablanca,0639624910,2023-09-13,SEO
+C0481,Hassani,Fatima,client481@invalid.com,1991-12-29,,Tanger,0658442674,2023-07-26,Partenaire
+C0482,El Amrani,Ahmed,client482@gmail.com,2015-11-17,M,tanger,0650789378,2022-03-21,Ads
+C0483,Ghazi,Amina,client483@gmail.com,1967-04-30,f,TANGER,0686507818,2023-10-03,Ads
+C0484,Fassi,Laila,client484@gmail.com,2013-01-11,F,Rabat,0623972387,2022-06-20,Ads
+C0485,Chraibi,Laila,client485@gmail.com,1981-08-10,,Casablanca,0683830667,2022-11-29,Email
+C0486,Dahbi,Amina,client486@gmail.com,1983-08-26,0,Tnja,0658319528,2023-04-09,Partenaire
+C0487,El Amrani,Ahmed,client487gmail.com,1996-06-09,M,TNG,0650512501,2022-01-07,Email
+C0488,Alami,Omar,client488@gmail.com,1999-09-03,0,TNG,0622655004,2022-02-08,Partenaire
+C0489,Dahbi,Amina,client489@gmail.com,1972-12-27,0,Tnja,0622335296,2023-08-08,Partenaire
+C0490,Fassi,Laila,client490@gmail.com,1965-07-06,F,Marrakech,0687340611,2022-04-08,Direct
+C0491,Ghazi,Fatima,client491gmail.com,1955-01-07,female,Casablanca,0656698401,2023-03-21,Partenaire
+C0492,Alami,Karim,client492@gmail.com,1954-11-09,f,Tnja,0680381542,2022-02-12,Email
+C0493,Dahbi,Youssef,client493@gmail.com,1954-07-14,male,Rabat,0669809598,2024-02-10,Direct
+C0494,El Amrani,Karim,client494@gmail.com,1963-04-13,Homme,TNG,0655119729,2022-03-26,Partenaire
+C0495,El Amrani,Fatima,client495gmail.com,1985-10-02,Homme,Rabat,0627498659,2024-02-20,Ads
+C0496,Dahbi,Amina,client496@gmail.com,1971-09-28,Homme,tanger,0645736421,2024-03-06,Partenaire
+C0497,Benani,Karim,client497@gmail.com,1987-12-31,F,Casablanca,0656749089,2022-07-15,Email
+C0498,Chraibi,Sara,client498@gmail.com,2005-04-14,1,Marrakech,0693642093,2022-05-30,Partenaire
+C0499,Fassi,Youssef,client499@invalid.com,2017-12-24,f,tanger,0625082279,2024-01-28,SEO
+C0500,El Amrani,Ahmed,client500@gmail.com,1980-10-18,m,tanger,0650952251,2023-04-06,Partenaire
+C0501,Dahbi,Amina,client501@invalid.com,1999-01-09,male,Tnja,0683658696,2023-05-10,Direct
+C0502,Alami,Karim,client502@gmail.com,2002-04-21,,Tanger,0644286770,2022-06-24,SEO
+C0503,El Amrani,Ahmed,client503@gmail.com,1991-09-18,female,Tanger,0618938604,2023-02-02,Email
+C0504,Benani,Ahmed,client504@gmail.com,1976-03-29,0,Rabat,0641026926,2023-01-25,Direct
+C0505,Hassani,Fatima,client505@gmail.com,1966-09-22,0,TANGER,0677196215,2023-04-14,Direct
+C0506,El Amrani,Sara,client506gmail.com,1993-12-15,f,Rabat,0631072888,2022-01-19,Email
+C0507,Dahbi,Omar,client507@gmail.com,1955-07-25,1,Tnja,0661965156,2022-01-31,Direct
+C0508,Ghazi,Youssef,client508@gmail.com,1957-11-16,0,Rabat,0679889565,2023-11-26,Direct
+C0509,Dahbi,Youssef,client509@gmail.com,1988-04-05,Homme,Tnja,0691251236,2022-12-04,Partenaire
+C0510,Dahbi,Youssef,client510@gmail.com,1977-09-21,m,TNG,0667722252,2024-02-28,Ads
+C0511,Fassi,Fatima,client511@gmail.com,2000-01-01,m,tanger,0634714210,2022-11-22,Ads
+C0512,Ghazi,Omar,client512@gmail.com,1989-09-29,Homme,Tnja,0630395330,2024-03-08,Ads
+C0513,El Amrani,Amina,client513@gmail.com,2003-07-03,female,TANGER,0640992534,2023-12-05,SEO
+C0514,Chraibi,Laila,client514@gmail.com,2013-11-17,Femme,Casablanca,0634692904,2023-02-01,Partenaire
+C0515,Alami,Karim,client515@gmail.com,1951-05-07,f,Tnja,0665437830,2022-08-16,Ads
+C0516,Hassani,Sara,client516@gmail.com,1991-01-18,Femme,TANGER,0667385552,2023-02-19,SEO
+C0517,Ghazi,Ahmed,client517@gmail.com,1996-09-16,0,tanger,0670614013,2023-04-13,SEO
+C0518,Ghazi,Ahmed,client518@gmail.com,2000-01-13,male,Rabat,0679273350,2024-02-23,SEO
+C0519,El Amrani,Laila,client519@gmail.com,1964-12-08,1,Rabat,0649516346,2023-09-20,SEO
+C0520,Hassani,Fatima,client520@gmail.com,2014-10-31,Femme,tanger,0634128507,2024-03-08,Direct
+C0521,Ghazi,Karim,client521@gmail.com,1979-01-08,m,Marrakech,0613343647,2022-07-03,Partenaire
+C0522,Hassani,Fatima,client522@gmail.com,1972-06-08,f,Casablanca,0697050454,2023-12-30,Ads
+C0523,Hassani,Sara,client523@gmail.com,1957-08-27,F,Rabat,0678674708,2023-09-19,Ads
+C0524,Fassi,Youssef,client524@gmail.com,1964-07-18,m,TNG,0634007090,2024-02-27,SEO
+C0525,El Amrani,Youssef,client525@gmail.com,1960-07-19,Femme,TNG,0637226295,2022-01-04,Direct
+C0526,Hassani,Ahmed,client526gmail.com,2004-07-18,Femme,Marrakech,0641927492,2022-08-11,Direct
+C0527,Benani,Ahmed,client527@gmail.com,1971-12-15,Femme,Tnja,0693183589,2023-10-06,Direct
+C0528,Chraibi,Ahmed,client528@gmail.com,2008-08-10,m,Casablanca,0614928616,2022-05-29,SEO
+C0529,Fassi,Fatima,client529@gmail.com,1954-05-26,1,tanger,0665963010,2022-07-02,Ads
+C0530,Chraibi,Laila,client530@gmail.com,2017-03-24,female,Casablanca,0614810369,2022-04-06,Email
+C0531,Ghazi,Fatima,client531@gmail.com,1976-04-09,F,Marrakech,0628058430,2022-05-05,Email
+C0532,Dahbi,Ahmed,client532@gmail.com,1959-10-22,f,tanger,0674916146,2024-01-12,Direct
+C0533,Ghazi,Sara,client533@gmail.com,1973-04-18,1,Casablanca,0627409802,2023-09-22,Direct
+C0534,Hassani,Youssef,client534@gmail.com,2004-09-03,Femme,TANGER,0648988647,2022-07-18,SEO
+C0535,Dahbi,Karim,client535@gmail.com,1987-02-23,F,Tanger,0654800838,2022-12-25,Direct
+C0536,Dahbi,Omar,client536@gmail.com,1972-10-28,,tanger,0651308532,2022-11-04,Direct
+C0537,Fassi,Sara,client537@gmail.com,1985-07-13,F,Tanger,0633572537,2022-07-18,Email
+C0538,Hassani,Ahmed,client538@gmail.com,2007-12-04,Femme,TNG,0674625235,2022-06-09,Partenaire
+C0539,Hassani,Karim,client539@gmail.com,2016-08-15,0,Tanger,0679937264,2022-11-03,Direct
+C0540,Alami,Amina,client540@gmail.com,2001-10-20,male,Casablanca,0657458790,2022-03-09,Ads
+C0541,Chraibi,Karim,client541gmail.com,1966-10-24,Homme,tanger,0651376831,2023-12-24,Email
+C0542,Hassani,Amina,client542@gmail.com,1983-05-04,F,Marrakech,0650618137,2022-08-10,Direct
+C0543,Dahbi,Fatima,client543@gmail.com,1989-10-24,M,Tanger,0674781956,2023-05-28,Ads
+C0544,El Amrani,Sara,client544@gmail.com,1962-11-09,male,tanger,0679276026,2023-11-24,Ads
+C0545,Benani,Ahmed,client545gmail.com,1977-11-25,Homme,Tanger,0689763928,2022-03-31,Email
+C0546,El Amrani,Ahmed,client546gmail.com,2001-10-25,male,Tnja,0695745109,2022-08-03,Email
+C0547,Fassi,Laila,client547@gmail.com,2010-03-18,male,tanger,0646595028,2022-06-02,Ads
+C0548,Benani,Amina,client548gmail.com,1998-09-03,female,Casablanca,0683734610,2022-11-23,Email
+C0549,Dahbi,Youssef,client549@gmail.com,1956-05-23,1,Tnja,0692310750,2022-12-13,Direct
+C0550,Alami,Fatima,client550@gmail.com,1984-05-31,Femme,Tanger,0621558774,2023-03-13,Partenaire
+C0551,Hassani,Sara,client551@gmail.com,1978-01-12,female,Casablanca,0636594858,2024-01-01,Direct
+C0552,Chraibi,Fatima,client552@invalid.com,2012-09-03,Femme,Marrakech,0623054418,2023-04-12,Email
+C0553,Hassani,Amina,client553@gmail.com,1970-01-29,Femme,TNG,0692804565,2022-09-22,Email
+C0554,Fassi,Sara,client554@gmail.com,1990-09-01,,Marrakech,0614061983,2022-03-08,Partenaire
+C0555,El Amrani,Sara,client555@gmail.com,2004-03-24,m,TNG,0678175850,2022-04-16,Partenaire
+C0556,Benani,Omar,client556@gmail.com,1997-10-18,0,Marrakech,0663796676,2023-08-28,Partenaire
+C0557,Hassani,Karim,client557@gmail.com,1955-12-05,m,Casablanca,0637949250,2023-12-12,Direct
+C0558,Fassi,Amina,client558@gmail.com,1965-07-12,female,tanger,0687066247,2023-05-14,SEO
+C0559,Benani,Laila,client559@gmail.com,1965-10-21,male,Tnja,0664464708,2022-03-13,Direct
+C0560,Fassi,Laila,client560@gmail.com,2007-11-13,Homme,Tanger,0622151134,2022-08-11,Ads
+C0561,Alami,Youssef,client561@gmail.com,2009-04-16,,TNG,0670797197,2023-06-29,Email
+C0562,Dahbi,Sara,client562@gmail.com,1976-11-21,f,Tnja,0668348074,2024-01-06,Email
+C0563,Ghazi,Youssef,client563@gmail.com,1976-05-23,female,Tanger,0659556257,2023-07-17,SEO
+C0564,Benani,Omar,client564@invalid.com,1952-10-18,0,TANGER,0667943873,2023-12-21,Direct
+C0565,Ghazi,Karim,client565@gmail.com,1989-01-16,Homme,TANGER,0698917575,2022-06-27,Partenaire
+C0566,Ghazi,Youssef,client566@gmail.com,1975-11-18,0,TNG,0628022414,2022-01-12,SEO
+C0567,Ghazi,Youssef,client567@gmail.com,1957-08-06,Femme,TNG,0696200382,2023-03-02,Partenaire
+C0568,Chraibi,Laila,client568@gmail.com,1995-09-14,Homme,Rabat,0684094900,2023-04-06,Partenaire
+C0569,Alami,Laila,client569@gmail.com,2015-07-29,female,TANGER,0677340900,2022-10-03,Partenaire
+C0570,Alami,Laila,client570@gmail.com,2013-03-28,M,Casablanca,0625188664,2023-08-18,Partenaire
+C0571,El Amrani,Laila,client571@gmail.com,1996-05-18,male,tanger,0680243759,2023-09-17,SEO
+C0572,Benani,Omar,client572@gmail.com,2004-12-31,,Tanger,0656109986,2023-07-02,SEO
+C0573,Fassi,Karim,client573@gmail.com,1981-08-30,Femme,Tnja,0648816900,2022-06-21,SEO
+C0574,El Amrani,Ahmed,client574@gmail.com,2006-06-16,1,Marrakech,0687596783,2022-06-23,Direct
+C0575,Alami,Omar,client575@invalid.com,1993-06-28,female,tanger,0627021671,2023-06-02,SEO
+C0576,El Amrani,Omar,client576@gmail.com,1973-01-19,m,Tanger,0624971907,2023-09-11,Ads
+C0577,Hassani,Sara,client577@gmail.com,1965-09-26,,Tnja,0641701674,2023-05-12,Ads
+C0578,Benani,Youssef,client578@gmail.com,2003-06-06,0,TNG,0676565050,2024-02-10,Partenaire
+C0579,Chraibi,Amina,client579@gmail.com,2001-10-31,Femme,Casablanca,0617291483,2023-10-20,Email
+C0580,Hassani,Karim,client580@gmail.com,1992-09-22,m,Tnja,0673923372,2024-02-04,Direct
+C0581,Hassani,Omar,client581@gmail.com,1963-01-09,Homme,Rabat,0611592230,2022-10-23,Partenaire
+C0582,Alami,Fatima,client582@gmail.com,1997-08-31,male,Casablanca,0667953319,2023-09-18,Email
+C0583,El Amrani,Karim,client583@gmail.com,1991-05-15,F,TANGER,0689017236,2024-02-28,Ads
+C0584,Fassi,Ahmed,client584@gmail.com,2010-05-12,m,Tanger,0619120357,2022-01-13,Partenaire
+C0585,Fassi,Amina,client585@invalid.com,2015-01-25,Femme,Tnja,0643808923,2022-07-17,SEO
+C0586,Dahbi,Fatima,client586@invalid.com,2013-07-11,female,tanger,0621594582,2023-09-12,Ads
+C0587,Chraibi,Fatima,client587@gmail.com,2012-05-30,,TNG,0644002147,2022-10-29,Partenaire
+C0588,El Amrani,Karim,client588@gmail.com,2012-02-07,Femme,Casablanca,0644539133,2022-06-15,SEO
+C0589,Fassi,Ahmed,client589@gmail.com,1973-03-02,Homme,Tnja,0633881291,2023-03-28,SEO
+C0590,Ghazi,Youssef,client590@gmail.com,2007-11-29,female,Marrakech,0624553291,2022-05-28,Direct
+C0591,Benani,Laila,client591@gmail.com,2014-03-08,,Tnja,0623862962,2022-02-05,SEO
+C0592,Alami,Laila,client592@invalid.com,1963-05-10,Femme,Tanger,0615078212,2023-11-12,Partenaire
+C0593,Alami,Laila,client593@gmail.com,1992-11-23,Homme,Rabat,0664212251,2024-01-16,SEO
+C0594,Benani,Sara,client594gmail.com,1979-12-01,Femme,Tnja,0663769608,2022-02-26,SEO
+C0595,Benani,Laila,client595@gmail.com,2018-03-23,0,Tnja,0696945247,2022-07-27,Ads
+C0596,Dahbi,Omar,client596@gmail.com,2012-06-06,,Rabat,0624330160,2023-10-08,Email
+C0597,Dahbi,Youssef,client597@gmail.com,1953-03-15,Femme,TANGER,0613404379,2024-01-08,Direct
+C0598,El Amrani,Laila,client598@gmail.com,1997-11-26,male,Marrakech,0612203625,2022-02-07,Email
+C0599,Ghazi,Fatima,client599@invalid.com,1968-12-28,M,Marrakech,0682016051,2022-06-02,Direct
+C0600,Hassani,Ahmed,client600@gmail.com,1992-04-10,m,Tanger,0642572300,2023-12-20,Ads
+C0601,Benani,Laila,client601@invalid.com,2004-11-01,1,TNG,0689328380,2022-03-07,SEO
+C0602,Dahbi,Fatima,client602@gmail.com,1968-03-07,female,Rabat,0655277425,2024-01-26,Partenaire
+C0603,Chraibi,Sara,client603@gmail.com,1969-02-17,female,Tanger,0689602555,2022-06-27,Email
+C0604,Chraibi,Sara,client604@invalid.com,1999-08-26,Homme,TNG,0668876111,2022-09-07,Direct
+C0605,Ghazi,Youssef,client605@invalid.com,1951-05-28,,Marrakech,0620834405,2022-01-07,SEO
+C0606,El Amrani,Karim,client606@gmail.com,2012-03-20,,Marrakech,0627031212,2022-07-31,Ads
+C0607,Dahbi,Youssef,client607@gmail.com,2004-10-10,Homme,Tanger,0690030269,2022-07-04,Partenaire
+C0608,Fassi,Karim,client608@gmail.com,1950-05-30,1,TANGER,0635756766,2022-05-01,Direct
+C0609,Dahbi,Laila,client609@gmail.com,2006-03-15,male,TANGER,0647101348,2022-02-24,Ads
+C0610,Hassani,Youssef,client610@gmail.com,1964-05-02,Femme,Tanger,0617251463,2023-10-23,Email
+C0611,Hassani,Ahmed,client611@gmail.com,1959-05-15,0,Tanger,0682123324,2022-06-30,Ads
+C0612,Benani,Amina,client612@gmail.com,2014-09-20,F,Marrakech,0689551741,2023-08-17,Email
+C0613,Dahbi,Fatima,client613@gmail.com,1979-04-05,0,TANGER,0623161945,2022-08-31,Partenaire
+C0614,Benani,Laila,client614@gmail.com,2002-06-29,f,Marrakech,0617293304,2023-03-23,Ads
+C0615,Ghazi,Sara,client615@gmail.com,1962-03-28,m,Marrakech,0636059032,2023-10-10,Email
+C0616,Alami,Ahmed,client616@gmail.com,1975-03-05,m,TNG,0624912833,2023-04-22,Partenaire
+C0617,El Amrani,Youssef,client617@gmail.com,2007-03-28,f,TNG,0687594146,2023-07-21,Ads
+C0618,Dahbi,Laila,client618@invalid.com,1991-07-08,Femme,Tnja,0611946674,2024-01-18,Partenaire
+C0619,Ghazi,Amina,client619@gmail.com,2003-02-03,0,TNG,0687000815,2022-01-06,Partenaire
+C0620,Alami,Karim,client620gmail.com,1997-08-25,Femme,Rabat,0674326441,2023-12-15,SEO
+C0621,Alami,Karim,client621@gmail.com,1969-07-23,male,TNG,0658104396,2022-10-30,Ads
+C0622,El Amrani,Youssef,client622@gmail.com,2013-02-04,Femme,Marrakech,0686555214,2024-02-05,Direct
+C0623,Ghazi,Youssef,client623@invalid.com,1983-03-26,m,Marrakech,0695013818,2022-01-02,SEO
+C0624,Alami,Omar,client624@gmail.com,1988-03-17,male,Tnja,0692208524,2023-07-10,Direct
+C0625,Fassi,Ahmed,client625@gmail.com,1996-03-06,F,Casablanca,0616920612,2022-04-24,Partenaire
+C0626,Fassi,Youssef,client626@gmail.com,2008-02-25,0,tanger,0685263692,2023-12-28,Ads
+C0627,Benani,Laila,client627@gmail.com,2016-02-26,male,TANGER,0640257672,2022-11-25,Email
+C0628,El Amrani,Ahmed,client628@gmail.com,1955-09-08,Homme,Casablanca,0656335527,2023-04-09,Partenaire
+C0629,El Amrani,Laila,client629@gmail.com,2005-09-16,Femme,Casablanca,0618808386,2022-07-12,Partenaire
+C0630,El Amrani,Fatima,client630@invalid.com,1959-10-24,m,TNG,0647036407,2022-04-25,Ads
+C0631,Alami,Omar,client631@gmail.com,1987-05-16,male,TNG,0673606441,2022-12-22,Partenaire
+C0632,Dahbi,Fatima,client632@gmail.com,1951-12-24,1,TANGER,0679742280,2023-10-23,Email
+C0633,Fassi,Laila,client633@gmail.com,2003-03-27,,Marrakech,0671472671,2022-11-08,Direct
+C0634,El Amrani,Amina,client634@gmail.com,1993-06-11,m,Casablanca,0648674340,2024-02-28,SEO
+C0635,Chraibi,Omar,client635@gmail.com,1966-05-09,m,TNG,0699436783,2022-06-07,Ads
+C0636,Chraibi,Laila,client636gmail.com,1973-05-13,0,Casablanca,0634762712,2022-07-30,Direct
+C0637,Chraibi,Sara,client637@gmail.com,1990-03-26,0,TNG,0681624345,2022-11-05,SEO
+C0638,Chraibi,Laila,client638@gmail.com,1978-09-23,Femme,TNG,0610576371,2024-01-27,Direct
+C0639,Hassani,Omar,client639@gmail.com,2017-08-29,1,TNG,0685864089,2024-01-17,Partenaire
+C0640,Alami,Youssef,client640@gmail.com,2010-10-29,Femme,tanger,0651350093,2022-01-26,Partenaire
+C0641,Benani,Sara,client641@gmail.com,1954-12-09,0,TANGER,0688306842,2023-06-24,Ads
+C0642,Alami,Fatima,client642@gmail.com,1998-04-21,f,Marrakech,0621727533,2023-06-09,Partenaire
+C0643,Alami,Sara,client643@gmail.com,1985-09-01,female,TNG,0667396933,2023-01-14,Partenaire
+C0644,El Amrani,Laila,client644@gmail.com,2000-05-01,0,tanger,0638950113,2024-01-16,Partenaire
+C0645,El Amrani,Youssef,client645@gmail.com,2015-04-25,Femme,Rabat,0665592149,2022-05-23,Direct
+C0646,Hassani,Sara,client646@gmail.com,1955-12-07,1,Rabat,0621871327,2022-01-07,Partenaire
+C0647,Hassani,Youssef,client647@gmail.com,1967-11-17,m,TNG,0661240239,2022-10-24,Direct
+C0648,El Amrani,Laila,client648@gmail.com,2000-03-05,1,Marrakech,0640134594,2022-01-28,SEO
+C0649,Hassani,Fatima,client649@gmail.com,2008-08-28,,Tnja,0665989834,2022-07-03,Partenaire
+C0650,Benani,Omar,client650@gmail.com,1994-03-27,M,tanger,0690381832,2024-02-03,Email
+C0651,Hassani,Fatima,client651@gmail.com,1983-06-26,1,Tanger,0644834491,2022-06-16,Direct
+C0652,Fassi,Youssef,client652@invalid.com,1954-09-30,m,Tnja,0658474537,2023-03-06,Email
+C0653,Benani,Amina,client653@invalid.com,2006-05-06,,TNG,0622684736,2023-09-06,Ads
+C0654,El Amrani,Omar,client654@gmail.com,2011-06-30,,Casablanca,0622862542,2023-07-02,Direct
+C0655,El Amrani,Sara,client655@gmail.com,1993-07-03,m,Rabat,0655676049,2022-06-16,SEO
+C0656,Benani,Karim,client656@gmail.com,1991-04-25,f,tanger,0625645176,2022-05-15,SEO
+C0657,Chraibi,Laila,client657@gmail.com,2003-08-14,0,Casablanca,0633113253,2023-12-28,Email
+C0658,Chraibi,Youssef,client658@invalid.com,2011-09-23,f,TANGER,0651262331,2022-05-09,Ads
+C0659,Benani,Ahmed,client659@gmail.com,1993-06-12,F,Rabat,0615706527,2022-07-21,SEO
+C0660,Alami,Laila,client660@invalid.com,1960-09-01,female,Tnja,0615809144,2022-03-09,Email
+C0661,Dahbi,Amina,client661@gmail.com,1966-07-30,F,Casablanca,0613927092,2022-04-03,Ads
+C0662,Fassi,Sara,client662@gmail.com,1964-05-28,female,TANGER,0677767769,2023-08-07,SEO
+C0663,Dahbi,Amina,client663@invalid.com,1975-04-15,M,TNG,0682091897,2022-01-05,SEO
+C0664,Fassi,Youssef,client664@gmail.com,1989-06-11,Femme,tanger,0634273079,2022-12-30,Partenaire
+C0665,Benani,Sara,client665@gmail.com,1961-02-02,Homme,Marrakech,0624806384,2023-06-17,Ads
+C0666,Alami,Fatima,client666@gmail.com,1979-06-09,1,Marrakech,0625532025,2023-01-30,Email
+C0667,Hassani,Amina,client667@gmail.com,1999-09-11,,Rabat,0649002238,2023-03-15,Ads
+C0668,Fassi,Youssef,client668@gmail.com,1951-02-23,Femme,Marrakech,0624115931,2023-02-10,Partenaire
+C0669,Chraibi,Karim,client669@gmail.com,1985-12-10,F,tanger,0632645646,2022-03-08,Email
+C0670,Ghazi,Fatima,client670@gmail.com,1970-11-22,female,Rabat,0676989425,2022-10-13,Direct
+C0671,Ghazi,Sara,client671@gmail.com,1992-09-08,,Rabat,0675032899,2023-06-08,Email
+C0672,El Amrani,Laila,client672@gmail.com,1994-08-12,F,TANGER,0694338531,2022-05-18,SEO
+C0673,Hassani,Ahmed,client673@invalid.com,1966-01-25,F,Rabat,0691145880,2023-11-27,Email
+C0674,Benani,Laila,client674@gmail.com,1991-10-23,F,TANGER,0649401349,2023-11-09,Partenaire
+C0675,Alami,Ahmed,client675@gmail.com,1988-08-12,0,tanger,0661489930,2023-04-06,Email
+C0676,Alami,Youssef,client676@gmail.com,1999-12-10,M,Tnja,0632031067,2023-05-19,Partenaire
+C0677,Benani,Laila,client677@gmail.com,2009-03-21,Femme,Marrakech,0673875700,2023-07-30,Ads
+C0678,Ghazi,Sara,client678@gmail.com,1975-07-09,Femme,Casablanca,0618244186,2022-01-29,Direct
+C0679,Alami,Sara,client679@invalid.com,1984-02-22,0,tanger,0667465077,2022-12-20,Email
+C0680,Dahbi,Amina,client680@gmail.com,2008-02-22,f,Tnja,0689528254,2022-03-28,SEO
+C0681,Alami,Sara,client681@gmail.com,1953-05-09,m,Marrakech,0698284097,2023-03-09,Direct
+C0682,Hassani,Ahmed,client682@gmail.com,1978-05-25,M,Rabat,0686551556,2023-02-04,Email
+C0683,Dahbi,Sara,client683@gmail.com,1994-07-25,F,Casablanca,0632364326,2023-09-22,Email
+C0684,Benani,Amina,client684@gmail.com,1975-10-13,Femme,Tnja,0616379551,2022-11-01,Direct
+C0685,Benani,Sara,client685@gmail.com,1974-07-11,F,tanger,0686024718,2023-06-28,Partenaire
+C0686,El Amrani,Omar,client686@gmail.com,1988-11-02,F,Casablanca,0636853878,2023-03-01,Partenaire
+C0687,Chraibi,Ahmed,client687@gmail.com,2006-04-30,,TNG,0687422596,2023-05-27,Ads
+C0688,El Amrani,Karim,client688@gmail.com,2000-10-15,Femme,Tanger,0680097837,2022-07-25,Email
+C0689,El Amrani,Karim,client689@gmail.com,1986-10-22,,Casablanca,0618647316,2023-10-12,Ads
+C0690,Chraibi,Omar,client690@gmail.com,2011-08-15,1,TANGER,0664474404,2022-09-02,SEO
+C0691,Hassani,Laila,client691gmail.com,2000-03-23,1,Rabat,0666642448,2023-10-25,SEO
+C0692,El Amrani,Omar,client692@gmail.com,2009-02-03,M,TNG,0696475652,2022-02-13,Partenaire
+C0693,Fassi,Omar,client693@gmail.com,1955-09-15,F,Rabat,0658779318,2023-11-19,SEO
+C0694,Dahbi,Fatima,client694@gmail.com,2001-03-23,m,tanger,0680055957,2023-11-12,Direct
+C0695,Hassani,Fatima,client695@gmail.com,1971-05-12,1,tanger,0652065222,2022-12-04,Direct
+C0696,Ghazi,Amina,client696@gmail.com,1962-12-11,f,tanger,0633508806,2022-08-08,Email
+C0697,Alami,Laila,client697@gmail.com,1997-11-10,female,Casablanca,0625161415,2022-11-21,Direct
+C0698,Chraibi,Sara,client698@gmail.com,1992-08-20,1,Casablanca,0651362065,2022-01-22,Direct
+C0699,Dahbi,Omar,client699@invalid.com,1999-08-03,M,Rabat,0651509315,2023-10-17,Email
+C0700,Dahbi,Laila,client700@gmail.com,1984-11-07,male,Tanger,0662744287,2022-09-19,Email
+C0701,El Amrani,Amina,client701@invalid.com,1964-05-17,f,Marrakech,0694738725,2022-11-21,Partenaire
+C0702,Hassani,Laila,client702@gmail.com,2016-02-12,F,Rabat,0654657219,2024-01-05,Partenaire
+C0703,El Amrani,Fatima,client703@gmail.com,1981-07-26,m,Rabat,0690814633,2024-01-17,Direct
+C0704,Alami,Youssef,client704@gmail.com,2006-07-14,M,Marrakech,0696046825,2022-05-20,SEO
+C0705,Benani,Fatima,client705@gmail.com,1964-02-28,0,TANGER,0679305456,2024-01-01,Ads
+C0706,Hassani,Laila,client706@gmail.com,2015-12-16,0,TNG,0644987861,2022-06-27,Direct
+C0707,Benani,Karim,client707@gmail.com,1982-12-24,f,TNG,0662813894,2023-01-22,Direct
+C0708,Dahbi,Fatima,client708@gmail.com,1991-06-27,male,TANGER,0645135941,2023-12-20,Ads
+C0709,El Amrani,Youssef,client709@invalid.com,1957-12-28,female,Casablanca,0632833506,2023-08-04,SEO
+C0710,Hassani,Fatima,client710@invalid.com,1970-02-20,Femme,TANGER,0635574404,2024-03-11,Email
+C0711,Ghazi,Amina,client711@gmail.com,2003-11-02,m,TANGER,0647979220,2024-01-15,Ads
+C0712,Alami,Omar,client712@gmail.com,1973-06-27,m,TANGER,0692903638,2023-04-07,Ads
+C0713,Benani,Ahmed,client713@gmail.com,1992-01-25,Femme,TNG,0653385340,2023-12-11,Partenaire
+C0714,El Amrani,Fatima,client714@gmail.com,1958-07-20,Homme,Tanger,0616994436,2022-12-07,Ads
+C0715,Alami,Ahmed,client715@gmail.com,1972-10-03,female,Rabat,0650601849,2023-02-09,Email
+C0716,Chraibi,Omar,client716@gmail.com,1965-03-29,M,Marrakech,0655523530,2023-04-25,Ads
+C0717,Chraibi,Omar,client717@invalid.com,1960-06-25,Homme,Casablanca,0615927344,2022-05-11,Partenaire
+C0718,Ghazi,Omar,client718@gmail.com,1973-08-13,0,Tnja,0679386899,2022-11-17,Partenaire
+C0719,Chraibi,Laila,client719@gmail.com,1954-10-10,Femme,TANGER,0629947547,2022-02-25,Ads
+C0720,Hassani,Karim,client720@gmail.com,1960-05-29,m,Marrakech,0615474970,2023-03-29,Email
+C0721,Hassani,Fatima,client721@gmail.com,2014-07-29,Femme,TNG,0626596590,2022-12-24,SEO
+C0722,El Amrani,Amina,client722@gmail.com,2002-05-09,m,Tanger,0680600592,2024-02-25,Direct
+C0723,Hassani,Fatima,client723@gmail.com,1979-06-27,f,Tanger,0648155583,2023-11-29,SEO
+C0724,Fassi,Youssef,client724@gmail.com,1952-08-04,F,tanger,0671771451,2023-12-26,Partenaire
+C0725,Alami,Sara,client725@gmail.com,1953-12-07,female,Marrakech,0653609415,2024-01-20,Direct
+C0726,El Amrani,Sara,client726@gmail.com,1954-12-25,,tanger,0683438064,2023-09-09,Partenaire
+C0727,Ghazi,Fatima,client727@invalid.com,1951-11-04,f,TANGER,0631869528,2023-02-02,Partenaire
+C0728,Chraibi,Fatima,client728@gmail.com,1976-10-13,,Marrakech,0668030164,2024-01-24,Email
+C0729,Benani,Sara,client729@gmail.com,1995-12-29,0,TANGER,0675716091,2023-04-02,Partenaire
+C0730,Benani,Karim,client730@gmail.com,1983-01-14,Homme,TNG,0668264710,2023-10-08,Partenaire
+C0731,Dahbi,Youssef,client731@invalid.com,1994-06-09,Femme,tanger,0649017499,2023-04-25,Partenaire
+C0732,Chraibi,Youssef,client732@invalid.com,2011-05-24,1,Tnja,0643373708,2023-06-20,Partenaire
+C0733,Alami,Fatima,client733gmail.com,1995-10-25,F,Rabat,0665434526,2022-04-07,Partenaire
+C0734,Fassi,Omar,client734@gmail.com,2002-07-14,1,tanger,0677571186,2022-01-17,SEO
+C0735,Ghazi,Ahmed,client735@gmail.com,1957-06-22,m,Rabat,0649949573,2022-11-18,Direct
+C0736,El Amrani,Sara,client736@gmail.com,1966-10-17,Femme,TANGER,0634842009,2022-03-22,Direct
+C0737,Alami,Ahmed,client737@gmail.com,1985-06-07,Homme,tanger,0611785713,2022-06-25,Partenaire
+C0738,Hassani,Omar,client738@gmail.com,2005-06-27,,Casablanca,0663015631,2022-11-06,SEO
+C0739,Alami,Amina,client739gmail.com,1952-05-28,F,TANGER,0674574456,2023-10-27,Ads
+C0740,Dahbi,Fatima,client740@gmail.com,1976-12-30,,Marrakech,0629886456,2023-05-01,Partenaire
+C0741,Hassani,Laila,client741@invalid.com,1992-04-19,m,Tanger,0670333053,2023-08-23,Ads
+C0742,Alami,Sara,client742@gmail.com,1950-09-16,Homme,tanger,0694612181,2024-01-01,Partenaire
+C0743,El Amrani,Ahmed,client743@gmail.com,1993-09-26,female,Rabat,0675243366,2023-06-10,Direct
+C0744,Dahbi,Ahmed,client744@gmail.com,1997-05-25,Femme,Tanger,0666640491,2023-08-14,Email
+C0745,Ghazi,Laila,client745@gmail.com,1960-06-28,,Marrakech,0693576934,2023-10-24,Email
+C0746,El Amrani,Amina,client746@gmail.com,1992-02-06,m,Casablanca,0668802221,2022-08-26,Direct
+C0747,Hassani,Youssef,client747@gmail.com,1976-04-27,0,Rabat,0665950146,2023-11-21,Email
+C0748,Dahbi,Omar,client748@gmail.com,2011-12-19,m,tanger,0699530801,2023-05-10,Ads
+C0749,Benani,Karim,client749@gmail.com,1994-04-18,Femme,Tnja,0641503438,2022-08-03,Direct
+C0750,Fassi,Youssef,client750invalid.com,1965-09-04,1,Tanger,0618545050,2022-12-12,Partenaire
+C0751,Dahbi,Laila,client751@gmail.com,1973-02-17,male,Casablanca,0657679636,2024-02-27,SEO
+C0752,Benani,Ahmed,client752@gmail.com,1989-04-12,m,Marrakech,0624888885,2022-04-19,Direct
+C0753,Alami,Fatima,client753@gmail.com,1964-12-26,F,tanger,0637566472,2023-01-06,Ads
+C0754,Hassani,Fatima,client754@gmail.com,1963-11-04,male,Casablanca,0654910261,2022-05-22,SEO
+C0755,Alami,Amina,client755@gmail.com,1992-06-30,Homme,Casablanca,0648488047,2023-06-02,Ads
+C0756,Fassi,Amina,client756@invalid.com,1963-08-08,Homme,Rabat,0640626070,2022-05-22,Partenaire
+C0757,Fassi,Ahmed,client757@gmail.com,1989-09-15,Femme,TNG,0611335293,2024-01-05,Direct
+C0758,Ghazi,Youssef,client758@gmail.com,1988-12-10,0,Tanger,0662783304,2024-02-17,SEO
+C0759,Alami,Omar,client759@gmail.com,1987-08-14,female,Rabat,0684304333,2022-11-08,Email
+C0760,Chraibi,Karim,client760gmail.com,1990-01-11,1,TANGER,0683071525,2023-10-02,Direct
+C0761,Ghazi,Amina,client761@gmail.com,1977-01-19,,tanger,0614962052,2023-07-05,Email
+C0762,El Amrani,Amina,client762@gmail.com,1958-04-30,m,Tnja,0679972515,2022-12-15,Ads
+C0763,El Amrani,Amina,client763@invalid.com,1977-04-08,male,Rabat,0677816807,2022-04-24,SEO
+C0764,Fassi,Fatima,client764@gmail.com,1954-04-14,male,tanger,0670228445,2022-11-02,Direct
+C0765,Dahbi,Sara,client765@gmail.com,1976-11-04,f,Tnja,0699512805,2024-01-03,Direct
+C0766,Dahbi,Fatima,client766@gmail.com,1979-05-31,male,TANGER,0658488507,2023-04-11,SEO
+C0767,Benani,Fatima,client767@gmail.com,1955-07-31,Homme,Rabat,0627456803,2023-05-03,Ads
+C0768,Ghazi,Karim,client768@gmail.com,1973-08-28,male,Marrakech,0695424369,2023-03-10,Partenaire
+C0769,Chraibi,Youssef,client769@gmail.com,1995-05-18,Homme,TNG,0675063976,2023-12-30,Partenaire
+C0770,Benani,Amina,client770@gmail.com,1990-11-10,male,Marrakech,0614376489,2024-02-04,Ads
+C0771,Ghazi,Fatima,client771@gmail.com,1960-11-04,F,Casablanca,0686740966,2022-10-24,SEO
+C0772,Fassi,Omar,client772@gmail.com,1976-05-17,1,Marrakech,0613755114,2022-05-27,Ads
+C0773,El Amrani,Amina,client773@gmail.com,1966-06-05,1,Marrakech,0610279945,2022-05-06,Direct
+C0774,Hassani,Omar,client774@gmail.com,2000-10-03,Homme,Marrakech,0655341868,2024-03-11,Partenaire
+C0775,Chraibi,Youssef,client775@gmail.com,1995-04-15,female,Marrakech,0670388500,2023-11-15,Partenaire
+C0776,Ghazi,Karim,client776@gmail.com,1970-11-21,F,Rabat,0655499525,2023-07-08,SEO
+C0777,Benani,Youssef,client777@gmail.com,2013-06-12,1,Tanger,0686771841,2023-10-08,Email
+C0778,Benani,Amina,client778@gmail.com,2005-07-04,male,Tanger,0686536905,2023-06-19,Ads
+C0779,Benani,Youssef,client779@gmail.com,1951-09-14,M,Tnja,0637622679,2022-09-09,Direct
+C0780,Fassi,Karim,client780@gmail.com,2002-10-31,female,Tanger,0675964394,2022-01-24,Email
+C0781,Fassi,Karim,client781@gmail.com,1973-01-27,male,tanger,0625387340,2022-04-12,Direct
+C0782,Benani,Youssef,client782@gmail.com,1977-07-11,1,Rabat,0632708438,2022-03-02,Direct
+C0783,El Amrani,Karim,client783@gmail.com,1958-11-10,M,Casablanca,0629120731,2023-02-27,Email
+C0784,Alami,Amina,client784@gmail.com,1971-07-01,F,TANGER,0676166580,2023-06-05,Direct
+C0785,Fassi,Laila,client785@gmail.com,1999-08-16,M,Rabat,0618785652,2023-05-11,SEO
+C0786,El Amrani,Fatima,client786@gmail.com,1972-02-06,M,TNG,0650884443,2023-08-05,Partenaire
+C0787,Dahbi,Youssef,client787@gmail.com,1983-06-29,male,TNG,0642905017,2023-07-05,Partenaire
+C0788,Alami,Laila,client788@gmail.com,2005-09-09,M,Tnja,0697652074,2022-06-21,SEO
+C0789,El Amrani,Karim,client789@invalid.com,1981-07-12,1,TANGER,0688538733,2023-06-07,Email
+C0790,Benani,Omar,client790@invalid.com,1958-01-18,female,Rabat,0626505688,2022-05-24,Direct
+C0791,Fassi,Sara,client791@gmail.com,2006-12-26,f,Tnja,0670762792,2022-10-07,Ads
+C0792,Hassani,Sara,client792@gmail.com,1951-06-05,f,TNG,0696764149,2022-01-03,Direct
+C0793,Chraibi,Karim,client793@gmail.com,1999-11-12,,Marrakech,0662719526,2023-07-06,SEO
+C0794,Alami,Laila,client794@gmail.com,2010-04-24,F,tanger,0657378150,2023-01-21,Direct
+C0795,Benani,Laila,client795@gmail.com,1983-03-28,M,TANGER,0669670203,2022-01-10,Ads
+C0796,Fassi,Amina,client796@gmail.com,1958-01-27,,Tnja,0639681939,2022-08-28,Partenaire
+C0797,Dahbi,Ahmed,client797gmail.com,1967-08-05,Femme,Rabat,0624890990,2022-10-12,Direct
+C0798,Chraibi,Fatima,client798@gmail.com,2002-10-07,f,TNG,0618730772,2022-05-11,Email
+C0799,El Amrani,Amina,client799@gmail.com,2010-10-29,male,Tanger,0681530199,2023-09-22,Email
+C0800,Ghazi,Ahmed,client800@gmail.com,1978-12-24,M,Rabat,0664609958,2022-10-08,SEO
+C0801,Alami,Amina,client801@gmail.com,1954-03-19,0,Tnja,0666379776,2023-06-30,Partenaire
+C0802,Benani,Ahmed,client802@gmail.com,2016-02-28,0,TANGER,0666884191,2022-03-18,Ads
+C0803,Benani,Ahmed,client803@gmail.com,1993-01-22,F,Rabat,0613224383,2023-08-30,Email
+C0804,Dahbi,Sara,client804@gmail.com,1954-11-19,Femme,Casablanca,0679749603,2022-08-31,SEO
+C0805,Hassani,Fatima,client805@gmail.com,1957-09-03,F,Tanger,0614475312,2023-01-22,Email
+C0806,Alami,Laila,client806@gmail.com,1954-12-01,m,Tnja,0691971952,2023-10-04,Partenaire
+C0807,Alami,Omar,client807@invalid.com,1984-03-22,male,Rabat,0622862118,2023-09-25,Partenaire
+C0808,Alami,Laila,client808@gmail.com,1984-06-11,,Marrakech,0667459379,2023-09-28,Direct
+C0809,Alami,Laila,client809@gmail.com,1996-05-27,,Casablanca,0688894973,2022-07-17,SEO
+C0810,Dahbi,Youssef,client810@gmail.com,2007-03-08,F,Tnja,0657699801,2023-03-08,Partenaire
+C0811,Chraibi,Ahmed,client811@gmail.com,1955-06-06,f,TNG,0651831217,2023-08-22,Partenaire
+C0812,El Amrani,Youssef,client812@gmail.com,1963-03-24,0,Marrakech,0651429578,2023-09-10,Email
+C0813,Chraibi,Ahmed,client813@gmail.com,1971-04-19,male,Tanger,0666648087,2022-12-19,Ads
+C0814,Benani,Sara,client814@gmail.com,1966-12-27,f,Marrakech,0672733686,2023-09-07,Email
+C0815,El Amrani,Karim,client815@gmail.com,1979-06-26,0,TNG,0624072446,2023-04-11,SEO
+C0816,Dahbi,Amina,client816@gmail.com,1991-11-09,,TANGER,0642080592,2023-05-08,Email
+C0817,Chraibi,Ahmed,client817@gmail.com,1982-07-20,Homme,Tanger,0619896028,2023-01-02,SEO
+C0818,Dahbi,Sara,client818@gmail.com,1953-12-09,Femme,Tanger,0636725819,2022-07-22,Email
+C0819,Fassi,Amina,client819@gmail.com,1966-01-07,m,TANGER,0612884611,2022-06-30,Email
+C0820,Chraibi,Karim,client820gmail.com,2008-10-01,,tanger,0655417034,2022-08-04,Email
+C0821,Chraibi,Karim,client821@gmail.com,2013-10-13,0,tanger,0625903904,2022-05-28,Ads
+C0822,Fassi,Sara,client822@gmail.com,2003-10-16,Homme,Rabat,0695381661,2022-09-08,SEO
+C0823,El Amrani,Youssef,client823@gmail.com,1979-05-26,male,TANGER,0617148298,2023-10-07,Email
+C0824,Hassani,Amina,client824@gmail.com,2015-04-02,female,tanger,0673171894,2023-11-11,Direct
+C0825,Fassi,Laila,client825@invalid.com,1996-07-21,,Marrakech,0634024774,2022-11-26,Email
+C0826,Hassani,Omar,client826@gmail.com,2002-02-21,Femme,Rabat,0695645083,2023-08-21,SEO
+C0827,Dahbi,Karim,client827@gmail.com,1969-08-11,Femme,Tnja,0667045601,2023-01-22,Direct
+C0828,Benani,Youssef,client828@gmail.com,2017-06-07,1,tanger,0649600674,2023-04-01,Direct
+C0829,Fassi,Karim,client829@gmail.com,1990-06-23,Femme,Marrakech,0668049927,2023-02-23,Email
+C0830,Alami,Youssef,client830@gmail.com,1989-08-17,Homme,TANGER,0645651567,2023-10-23,SEO
+C0831,Benani,Omar,client831@gmail.com,1970-06-07,male,tanger,0625916596,2022-03-15,Email
+C0832,Fassi,Omar,client832@invalid.com,1977-02-27,f,Tnja,0635587594,2023-12-24,Direct
+C0833,El Amrani,Ahmed,client833@gmail.com,1976-11-13,male,Tnja,0656524207,2023-02-18,Partenaire
+C0834,Hassani,Youssef,client834@gmail.com,1985-08-30,M,TANGER,0640457532,2024-01-11,Ads
+C0835,Hassani,Laila,client835@gmail.com,1980-07-24,male,tanger,0652020192,2022-07-12,Partenaire
+C0836,Hassani,Laila,client836@gmail.com,2000-02-07,f,Tanger,0660291405,2022-05-23,Direct
+C0837,Hassani,Sara,client837@gmail.com,1980-06-27,M,TANGER,0666257000,2023-03-12,Partenaire
+C0838,Fassi,Ahmed,client838@gmail.com,2000-12-02,1,Tanger,0628674348,2022-06-07,Email
+C0839,Ghazi,Karim,client839@gmail.com,1968-04-27,female,Rabat,0618550910,2023-07-02,Partenaire
+C0840,Hassani,Omar,client840@gmail.com,1958-05-14,female,TNG,0624000677,2023-11-23,Direct
+C0841,Hassani,Ahmed,client841@gmail.com,1966-10-01,female,TANGER,0619326928,2023-01-31,Email
+C0842,Benani,Laila,client842@gmail.com,1955-02-26,male,Casablanca,0679596144,2022-01-12,Ads
+C0843,Chraibi,Fatima,client843@gmail.com,1961-08-02,Homme,Rabat,0674189781,2024-01-31,SEO
+C0844,Chraibi,Amina,client844@gmail.com,1977-10-16,f,Rabat,0699226958,2023-05-02,Ads
+C0845,Dahbi,Laila,client845@gmail.com,1974-09-17,female,TANGER,0610999023,2022-05-27,Partenaire
+C0846,Fassi,Laila,client846@invalid.com,1991-04-15,f,Marrakech,0687327229,2022-02-10,SEO
+C0847,Fassi,Omar,client847@gmail.com,1985-02-01,Femme,TNG,0665707438,2022-09-13,Ads
+C0848,Ghazi,Youssef,client848@gmail.com,2012-09-01,Femme,tanger,0662821563,2023-12-17,SEO
+C0849,El Amrani,Fatima,client849@gmail.com,2012-08-16,1,TANGER,0676234781,2023-02-26,Direct
+C0850,Fassi,Karim,client850@gmail.com,1990-06-16,F,TNG,0643925761,2022-08-01,Direct
+C0851,Hassani,Karim,client851invalid.com,1980-10-30,,Rabat,0636092407,2023-02-11,SEO
+C0852,Fassi,Laila,client852@invalid.com,1993-06-28,m,Marrakech,0619158638,2022-03-26,Direct
+C0853,Chraibi,Laila,client853@gmail.com,1975-01-16,Femme,TNG,0632896080,2022-01-19,Direct
+C0854,Ghazi,Youssef,client854@gmail.com,1956-12-17,male,Tanger,0646675298,2022-06-07,Partenaire
+C0855,Dahbi,Laila,client855@gmail.com,2012-07-04,M,Tanger,0695200126,2023-06-20,SEO
+C0856,Alami,Ahmed,client856@gmail.com,1983-11-10,M,TANGER,0643514137,2023-01-19,Ads
+C0857,Alami,Sara,client857gmail.com,1967-03-29,M,tanger,0639604115,2022-04-09,Ads
+C0858,Benani,Sara,client858gmail.com,1978-12-13,male,TANGER,0693842238,2022-08-01,Direct
+C0859,Dahbi,Fatima,client859@gmail.com,1981-12-28,f,Casablanca,0633303091,2022-01-16,Partenaire
+C0860,Hassani,Amina,client860gmail.com,1955-12-04,f,Tnja,0697234140,2023-10-01,Email
+C0861,El Amrani,Laila,client861@invalid.com,1959-02-19,Homme,TNG,0643814834,2022-04-08,Direct
+C0862,Chraibi,Sara,client862@gmail.com,1965-09-24,Homme,Casablanca,0699438746,2023-05-09,SEO
+C0863,Hassani,Karim,client863@gmail.com,1995-11-06,female,TANGER,0677567894,2023-08-25,SEO
+C0864,El Amrani,Amina,client864@gmail.com,2016-03-14,F,Rabat,0642688154,2023-09-27,SEO
+C0865,Dahbi,Youssef,client865@invalid.com,1983-09-17,1,TANGER,0696173002,2022-02-08,Ads
+C0866,Fassi,Youssef,client866@gmail.com,1974-12-14,Femme,Casablanca,0696382807,2024-02-18,SEO
+C0867,El Amrani,Ahmed,client867@gmail.com,1970-07-19,,Casablanca,0656000229,2022-09-06,Ads
+C0868,Dahbi,Amina,client868@gmail.com,2004-07-21,,Rabat,0679990777,2022-11-26,Ads
+C0869,Benani,Amina,client869gmail.com,1954-09-04,Femme,TNG,0637409946,2022-05-09,SEO
+C0870,Dahbi,Fatima,client870@gmail.com,1988-03-29,f,Marrakech,0651803852,2022-06-18,Ads
+C0871,El Amrani,Omar,client871@gmail.com,2001-09-18,f,Marrakech,0695309294,2022-07-26,Email
+C0872,Ghazi,Karim,client872@gmail.com,1965-01-19,0,Marrakech,0669240493,2023-03-09,Direct
+C0873,Hassani,Ahmed,client873@gmail.com,2018-05-10,m,Rabat,0667364292,2022-03-27,Email
+C0874,El Amrani,Karim,client874@gmail.com,1991-08-06,m,Tnja,0670881578,2022-10-18,Partenaire
+C0875,Chraibi,Laila,client875@gmail.com,1967-07-24,0,TNG,0635451146,2022-01-05,SEO
+C0876,Hassani,Karim,client876@gmail.com,1987-04-22,0,Rabat,0660082660,2023-01-29,Partenaire
+C0877,Ghazi,Ahmed,client877@gmail.com,1961-03-02,F,Rabat,0685914700,2022-06-16,Ads
+C0878,Hassani,Sara,client878@gmail.com,2012-06-25,0,Tanger,0697363169,2023-01-30,Partenaire
+C0879,Fassi,Ahmed,client879@gmail.com,2012-07-28,M,TNG,0645075212,2023-09-12,Partenaire
+C0880,Chraibi,Ahmed,client880@gmail.com,1960-06-22,f,tanger,0696489553,2023-12-30,Partenaire
+C0881,Dahbi,Karim,client881@gmail.com,1964-11-16,F,Rabat,0643939802,2023-12-10,Email
+C0882,El Amrani,Karim,client882@gmail.com,2017-07-04,Homme,tanger,0624666517,2023-10-14,Direct
+C0883,El Amrani,Amina,client883@gmail.com,2017-02-17,m,Rabat,0651352528,2022-01-07,Ads
+C0884,Ghazi,Karim,client884gmail.com,2008-09-20,F,Tnja,0667841075,2022-06-24,Ads
+C0885,Hassani,Youssef,client885@gmail.com,1995-02-03,f,tanger,0670486666,2023-08-04,Ads
+C0886,Dahbi,Omar,client886@gmail.com,1986-09-04,m,Marrakech,0694132688,2023-10-02,SEO
+C0887,Benani,Karim,client887@gmail.com,1961-03-09,1,Tnja,0618625158,2022-12-17,SEO
+C0888,Benani,Ahmed,client888@gmail.com,1955-06-24,,Tnja,0610969945,2023-11-13,Direct
+C0889,Alami,Karim,client889gmail.com,2004-02-05,f,Tnja,0675219904,2023-04-30,Email
+C0890,Fassi,Sara,client890@gmail.com,1971-07-01,,Casablanca,0699265296,2023-02-13,Partenaire
+C0891,Benani,Ahmed,client891@gmail.com,1990-12-29,0,Rabat,0628637880,2022-01-27,Direct
+C0892,Fassi,Laila,client892@gmail.com,2005-06-23,f,Marrakech,0679110587,2023-02-28,Ads
+C0893,Alami,Sara,client893@invalid.com,1954-02-08,0,Casablanca,0669633763,2022-08-28,Direct
+C0894,Fassi,Karim,client894@gmail.com,1992-09-18,F,tanger,0661654839,2022-10-28,Direct
+C0895,Alami,Youssef,client895@gmail.com,1994-09-03,male,tanger,0650446284,2023-11-21,Direct
+C0896,Benani,Laila,client896@gmail.com,2009-06-13,Femme,TANGER,0642662689,2022-08-05,Ads
+C0897,Benani,Karim,client897@gmail.com,2014-03-20,F,Tanger,0631506414,2022-12-01,Partenaire
+C0898,Hassani,Fatima,client898@gmail.com,2009-09-14,1,TNG,0681745187,2023-10-11,Partenaire
+C0899,Benani,Sara,client899@invalid.com,1983-10-28,f,Rabat,0697767609,2023-10-20,Direct
+C0900,Dahbi,Omar,client900@gmail.com,1960-05-18,f,Tnja,0621768256,2022-04-25,SEO
+C0901,Benani,Sara,client901@gmail.com,1961-06-07,f,Casablanca,0661028923,2023-08-14,SEO
+C0902,Ghazi,Karim,client902@gmail.com,1978-09-05,f,Casablanca,0626952687,2023-06-17,Direct
+C0903,Hassani,Sara,client903@gmail.com,1962-12-25,M,Tnja,0639380829,2023-05-27,Partenaire
+C0904,Alami,Sara,client904@gmail.com,1977-09-17,,tanger,0646702178,2023-12-25,Direct
+C0905,El Amrani,Karim,client905@gmail.com,1955-04-12,Femme,Casablanca,0630495346,2024-01-04,Ads
+C0906,Alami,Youssef,client906@gmail.com,1993-09-26,f,Rabat,0650144760,2023-11-07,Ads
+C0907,Ghazi,Laila,client907@gmail.com,1981-04-01,0,Rabat,0662487600,2022-03-15,Direct
+C0908,Ghazi,Fatima,client908@gmail.com,1961-09-29,f,Casablanca,0687897778,2022-02-25,Email
+C0909,Hassani,Laila,client909@gmail.com,1976-02-12,m,TNG,0638154362,2022-08-12,Ads
+C0910,Benani,Youssef,client910gmail.com,1983-10-13,female,Rabat,0632578497,2022-02-27,SEO
+C0911,Benani,Sara,client911@gmail.com,2003-03-28,M,Rabat,0629940502,2023-10-05,Partenaire
+C0912,Hassani,Omar,client912@gmail.com,2011-09-21,Homme,TNG,0697616925,2024-02-03,Partenaire
+C0913,Benani,Laila,client913@gmail.com,2008-05-05,,Rabat,0646938871,2023-10-10,Partenaire
+C0914,Benani,Laila,client914@gmail.com,2007-07-18,F,TANGER,0613090599,2023-08-24,Direct
+C0915,Chraibi,Karim,client915@gmail.com,1993-06-09,F,Rabat,0650045650,2023-08-09,Ads
+C0916,Chraibi,Karim,client916@invalid.com,2012-11-12,male,Tanger,0662854477,2023-07-24,Direct
+C0917,Benani,Amina,client917@gmail.com,2009-01-31,F,tanger,0634248334,2023-09-06,Ads
+C0918,Benani,Ahmed,client918@invalid.com,1961-07-23,0,TANGER,0697595925,2022-06-15,SEO
+C0919,Benani,Fatima,client919@gmail.com,1995-05-30,M,Tnja,0658796148,2023-07-12,Ads
+C0920,Dahbi,Omar,client920@gmail.com,1954-02-21,M,Tnja,0698470632,2023-07-01,Partenaire
+C0921,Fassi,Amina,client921@gmail.com,2011-09-20,0,tanger,0698934947,2022-02-15,Ads
+C0922,Chraibi,Amina,client922@invalid.com,2003-02-03,f,Casablanca,0647231423,2022-05-12,Direct
+C0923,Ghazi,Youssef,client923@gmail.com,1985-11-22,1,Marrakech,0621174172,2022-09-18,Partenaire
+C0924,Benani,Omar,client924@gmail.com,2006-10-20,f,TANGER,0659948088,2023-08-01,Direct
+C0925,Fassi,Karim,client925@gmail.com,1983-12-31,m,Tanger,0691014793,2022-09-11,SEO
+C0926,Ghazi,Fatima,client926@gmail.com,1979-07-20,,tanger,0658696806,2022-12-08,Email
+C0927,Alami,Fatima,client927@gmail.com,1983-11-02,1,TANGER,0660819173,2022-04-18,SEO
+C0928,Hassani,Fatima,client928@gmail.com,1997-06-15,1,Casablanca,0686793756,2022-10-16,Direct
+C0929,Chraibi,Sara,client929@gmail.com,2017-06-15,M,Rabat,0634249450,2022-12-20,Direct
+C0930,Hassani,Youssef,client930@gmail.com,1973-03-29,Homme,Tanger,0678929583,2024-01-01,Ads
+C0931,El Amrani,Ahmed,client931@gmail.com,2015-01-30,female,Casablanca,0643435196,2023-11-26,Direct
+C0932,Fassi,Laila,client932@gmail.com,1995-01-22,Femme,Tnja,0647020332,2023-03-15,Direct
+C0933,El Amrani,Fatima,client933@gmail.com,1977-06-03,f,Rabat,0651974837,2022-04-03,SEO
+C0934,Chraibi,Ahmed,client934@invalid.com,1957-08-03,F,Tnja,0684378065,2023-05-20,SEO
+C0935,Chraibi,Laila,client935@gmail.com,1994-08-30,male,tanger,0664421457,2022-01-15,Direct
+C0936,Ghazi,Sara,client936@gmail.com,1971-11-29,M,Tanger,0691520297,2023-04-05,Ads
+C0937,Dahbi,Youssef,client937@gmail.com,1956-09-27,male,Casablanca,0627893746,2023-06-11,Email
+C0938,Chraibi,Sara,client938@gmail.com,1960-02-28,Homme,Casablanca,0643522920,2023-07-07,SEO
+C0939,Dahbi,Ahmed,client939@gmail.com,2016-03-18,1,Rabat,0639187415,2022-11-09,Direct
+C0940,Hassani,Ahmed,client940gmail.com,1981-12-01,Femme,Tanger,0692615071,2023-04-17,Email
+C0941,Chraibi,Karim,client941@gmail.com,1981-10-22,0,Tanger,0623601326,2023-03-18,Partenaire
+C0942,Ghazi,Fatima,client942@gmail.com,1993-09-23,m,Tanger,0630888358,2024-02-27,Email
+C0943,Fassi,Karim,client943@gmail.com,1966-05-06,1,Tnja,0624588794,2023-03-26,Partenaire
+C0944,Alami,Sara,client944@gmail.com,2013-08-17,Homme,TANGER,0624853291,2022-07-14,Email
+C0945,Alami,Youssef,client945@invalid.com,2009-10-08,0,TANGER,0674329883,2023-11-13,Email
+C0946,Chraibi,Sara,client946@gmail.com,2017-05-20,Femme,Rabat,0677358318,2024-01-14,Partenaire
+C0947,Chraibi,Youssef,client947@gmail.com,1980-11-15,M,Tanger,0641743155,2022-02-23,Email
+C0948,Ghazi,Laila,client948@gmail.com,1975-12-21,M,Tnja,0675220319,2022-03-26,Partenaire
+C0949,Chraibi,Amina,client949@gmail.com,1975-03-23,male,tanger,0645370495,2023-12-19,Ads
+C0950,Benani,Youssef,client950@gmail.com,1966-12-05,Femme,TNG,0640787425,2022-05-04,Ads
+C0951,Chraibi,Karim,client951@gmail.com,1951-08-02,f,TANGER,0622205146,2022-02-22,Partenaire
+C0952,Dahbi,Amina,client952@gmail.com,1980-02-28,,Rabat,0674316496,2022-03-04,Direct
+C0953,El Amrani,Sara,client953@gmail.com,1975-03-04,F,Casablanca,0666112969,2022-09-10,Email
+C0954,Alami,Sara,client954@gmail.com,1969-01-07,M,Tnja,0673358574,2022-10-14,Direct
+C0955,Fassi,Sara,client955@gmail.com,1977-04-22,Femme,tanger,0623003982,2023-11-17,SEO
+C0956,Fassi,Sara,client956@gmail.com,2016-07-03,m,Casablanca,0689042306,2023-06-26,Direct
+C0957,Ghazi,Fatima,client957@gmail.com,1959-07-18,f,TNG,0694497928,2024-01-31,Direct
+C0958,Dahbi,Amina,client958@gmail.com,2013-03-21,,Marrakech,0623238889,2022-03-18,Direct
+C0959,Dahbi,Youssef,client959@gmail.com,1953-12-06,Femme,TNG,0635730441,2023-03-05,Direct
+C0960,Fassi,Sara,client960@gmail.com,1990-03-27,male,tanger,0668535809,2022-03-11,Partenaire
+C0961,Alami,Youssef,client961@gmail.com,2003-10-03,male,Tnja,0627305260,2022-10-24,SEO
+C0962,Ghazi,Laila,client962@gmail.com,2011-06-06,f,tanger,0632215479,2023-03-25,Direct
+C0963,El Amrani,Amina,client963@gmail.com,1966-07-07,Homme,Tanger,0631475246,2023-08-09,Ads
+C0964,Hassani,Omar,client964gmail.com,1977-03-22,male,TANGER,0649777260,2023-12-27,Email
+C0965,Dahbi,Omar,client965@gmail.com,1953-07-04,M,TNG,0647279846,2022-05-17,Email
+C0966,Dahbi,Fatima,client966@gmail.com,1950-02-15,f,Casablanca,0694917258,2023-09-12,Email
+C0967,El Amrani,Youssef,client967@gmail.com,1986-08-20,male,Tnja,0653571790,2022-02-28,SEO
+C0968,Chraibi,Omar,client968@gmail.com,1951-05-28,1,tanger,0661268618,2023-11-01,Email
+C0969,Dahbi,Laila,client969@gmail.com,1969-10-17,male,Casablanca,0646076853,2022-07-28,Direct
+C0970,Chraibi,Laila,client970@gmail.com,1970-10-16,Homme,Rabat,0659478024,2022-06-01,Partenaire
+C0971,Chraibi,Amina,client971@invalid.com,2001-02-08,m,Marrakech,0634213769,2023-10-26,Email
+C0972,Ghazi,Amina,client972@invalid.com,1956-03-25,m,TNG,0619670211,2023-03-13,Ads
+C0973,Benani,Youssef,client973@gmail.com,2015-03-15,Homme,Tanger,0690972685,2022-04-13,Partenaire
+C0974,Alami,Youssef,client974@gmail.com,1972-04-12,M,tanger,0645924244,2022-05-27,Direct
+C0975,Fassi,Fatima,client975@invalid.com,1968-02-25,F,TNG,0674481609,2024-02-17,Direct
+C0976,Fassi,Laila,client976@gmail.com,1963-11-12,1,TANGER,0617499483,2023-07-11,Email
+C0977,Benani,Omar,client977@gmail.com,1959-03-15,M,Rabat,0629036775,2022-01-02,Ads
+C0978,Fassi,Omar,client978@invalid.com,1970-04-07,m,Rabat,0625087236,2023-05-19,Ads
+C0979,Fassi,Fatima,client979@gmail.com,2005-03-28,1,Casablanca,0625884798,2023-01-05,SEO
+C0980,Ghazi,Sara,client980@gmail.com,2003-10-18,m,TNG,0667075357,2022-06-03,Email
+C0981,El Amrani,Laila,client981@gmail.com,2009-05-14,F,Casablanca,0645621515,2023-12-30,SEO
+C0982,Chraibi,Sara,client982@gmail.com,1963-04-05,m,Rabat,0669954440,2024-01-09,Partenaire
+C0983,El Amrani,Youssef,client983@gmail.com,1958-02-11,Homme,Casablanca,0627117558,2022-07-06,Partenaire
+C0984,Ghazi,Sara,client984@gmail.com,1962-05-27,Femme,TANGER,0661430248,2023-03-05,Direct
+C0985,Dahbi,Karim,client985@gmail.com,1957-07-02,male,Rabat,0680725487,2023-08-15,Ads
+C0986,Dahbi,Ahmed,client986@gmail.com,1982-07-07,M,Marrakech,0627930505,2022-04-23,SEO
+C0987,El Amrani,Laila,client987@gmail.com,1962-12-07,m,Rabat,0642547451,2022-08-04,Ads
+C0988,Ghazi,Ahmed,client988@invalid.com,2012-06-14,m,Rabat,0659886613,2022-02-25,SEO
+C0989,Chraibi,Ahmed,client989@gmail.com,1963-03-07,female,Casablanca,0628961944,2022-03-22,Ads
+C0990,Chraibi,Youssef,client990@invalid.com,1992-02-23,Homme,TNG,0680793145,2023-12-17,Email
+C0991,Alami,Omar,client991@gmail.com,1959-12-25,Femme,TNG,0618053170,2023-10-20,SEO
+C0992,Alami,Karim,client992@gmail.com,1988-01-03,m,Marrakech,0684377548,2023-12-30,Email
+C0993,Ghazi,Youssef,client993@gmail.com,1974-05-22,f,tanger,0679994685,2023-01-22,Ads
+C0994,Dahbi,Karim,client994@gmail.com,1966-06-25,M,tanger,0672872428,2023-05-04,Email
+C0995,Chraibi,Ahmed,client995@gmail.com,1983-04-30,Homme,Rabat,0636136297,2022-10-04,SEO
+C0996,Alami,Amina,client996@gmail.com,1975-04-27,0,TNG,0682688015,2022-04-20,SEO
+C0997,Dahbi,Amina,client997gmail.com,2007-04-10,1,Tanger,0642257238,2022-10-03,SEO
+C0998,Hassani,Ahmed,client998@gmail.com,1954-04-24,female,Casablanca,0622510559,2022-11-13,SEO
+C0999,Dahbi,Sara,client999@gmail.com,2017-06-14,Homme,Rabat,0657759672,2022-05-13,SEO
+C1000,Benani,Youssef,client1000@gmail.com,1952-02-16,male,Rabat,0674015552,2023-08-24,SEO
+C1001,Fassi,Laila,client1@gmail.com,1989-08-20,,Marrakech,0638682516,2023-06-08,Partenaire
+C1002,Benani,Omar,client2@gmail.com,1996-03-30,m,Casablanca,0622534217,2024-02-09,Ads
+C1003,Chraibi,Ahmed,client3@gmail.com,1954-02-23,f,TANGER,0673771720,2023-09-18,SEO
+C1004,Dahbi,Karim,client4@gmail.com,1994-05-09,female,Rabat,0642747037,2022-06-01,SEO
+C1005,Ghazi,Amina,client5@gmail.com,1965-10-12,F,Marrakech,0616740197,2023-07-25,Ads
