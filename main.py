@@ -22,7 +22,7 @@ from transform.build_dimensions import (
 )
 from load.loader import (
     get_engine, charger_dimension,
-    charger_faits, creer_schemas
+    charger_faits, creer_schemas, rafraichir_reporting
 )
 
 logger = setup_logger()
@@ -77,6 +77,7 @@ def run_pipeline():
         charger_dimension(dim_region,  "dim_region",  engine)
         charger_dimension(dim_livreur, "dim_livreur", engine)
         charger_faits(fait_ventes, engine)
+        rafraichir_reporting(engine)
 
         duree = (datetime.now() - start).total_seconds()
         logger.info(f"PIPELINE TERMINÉ EN {duree:.2f} secondes")

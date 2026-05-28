@@ -38,7 +38,7 @@ def transform_commandes(df: pd.DataFrame, df_regions: pd.DataFrame) -> pd.DataFr
 
     # R1 — Doublons
     avant = len(df)
-    df = df.drop_duplicates(subset=["id_commande"], keep="last")
+    df = df.drop_duplicates(subset=["id_commande"], keep="last").copy()
     logger.info(f"[TRANSFORM] R1 doublons      : {avant - len(df)} supprimées")
 
     # R2 — Dates
@@ -46,7 +46,7 @@ def transform_commandes(df: pd.DataFrame, df_regions: pd.DataFrame) -> pd.DataFr
         df["date_commande"], format="mixed", dayfirst=True, errors="coerce"
     )
     dates_invalides = df["date_commande"].isna().sum()
-    df = df.dropna(subset=["date_commande"])
+    df = df.dropna(subset=["date_commande"]).copy()
     logger.info(f"[TRANSFORM] R2 dates         : {dates_invalides} invalides supprimées")
 
     df["date_livraison"] = pd.to_datetime(df["date_livraison"], errors="coerce")

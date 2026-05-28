@@ -117,11 +117,14 @@ def build_dim_client(
         df["prenom"].fillna("") + " " + df["nom"].fillna("")
     ).str.strip()
     df = df.rename(columns={"id_client": "id_client_nk"})
-    df["date_debut"] = pd.Timestamp("today").date()
-    df["date_fin"]   = pd.Timestamp("9999-12-31").date()
-    df["est_actif"]  = True
     df = df.reset_index(drop=True)
     df.insert(0, "id_client_sk", range(1, len(df) + 1))
+    colonnes = [
+        "id_client_sk", "id_client_nk", "nom_complet", "email", "tranche_age",
+        "sexe", "ville", "segment_client", "canal_acquisition",
+        "date_inscription"
+    ]
+    df = df[[c for c in colonnes if c in df.columns]]
     logger.info(f"[BUILD] dim_client    : {len(df)} lignes")
     return df
 
@@ -151,8 +154,9 @@ def build_fait_ventes(
 
     # Sélection colonnes finales
     fait = df[[
+        "id_commande",
         "id_date", "id_produit", "id_client", "id_region", "id_livreur",
-        "quantite", "montant_ht", "montant_ttc",
+        "quantite", "prix_unitaire", "montant_ht", "montant_ttc",
         "delai_livraison_jours", "statut_clean"
     ]].rename(columns={
         "quantite":             "quantite_vendue",
@@ -161,9 +165,17 @@ def build_fait_ventes(
 
     avant = len(fait)
     fait = fait.dropna(subset=["id_client", "id_produit", "id_region"])
+    int_cols = [
+        "id_date", "id_produit", "id_client", "id_region", "id_livreur",
+        "quantite_vendue", "delai_livraison_jours"
+    ]
+    for col in int_cols:
+        if col in fait.columns:
+            fait[col] = pd.to_numeric(fait[col], errors="coerce").astype("Int64")
     logger.info(f"[BUILD] fait_ventes   : {avant - len(fait)} lignes sans clé supprimées")
 
     fait = fait.reset_index(drop=True)
     fait.insert(0, "id_vente", range(1, len(fait) + 1))
+    fait["remise_pct"] = 0
     logger.info(f"[BUILD] fait_ventes   : {len(fait)} lignes finales")
     return fait

@@ -1,115 +1,154 @@
-# data/generate_data.py
-import pandas as pd
-import numpy as np
+import argparse
 import json
-from datetime import datetime, timedelta
 import random
+from datetime import datetime, timedelta
+from pathlib import Path
 
-np.random.seed(42)
-random.seed(42)
+import numpy as np
+import pandas as pd
 
-# --- Génération des régions ---
-regions_data = {
-    "code_ville": ["TNG", "CAS", "RBT", "MRK", "FES", "AGD", "TET", "OUJ", "KHN", "BEN"],
-    "nom_ville_standard": ["Tanger", "Casablanca", "Rabat", "Marrakech", "Fès", "Agadir", "Tétouan", "Oujda", "Kénitra", "Benguerir"],
-    "province": ["Tanger-Assilah", "Casablanca", "Rabat", "Marrakech", "Fès", "Agadir-Ida Ou Tanane", "Tétouan", "Oujda-Angad", "Kénitra", "Rehamna"],
-    "region_admin": ["Tanger-Tétouan-Al Hoceïma", "Casablanca-Settat", "Rabat-Salé-Kénitra", "Marrakech-Safi", "Fès-Meknès", "Souss-Massa", "Tanger-Tétouan-Al Hoceïma", "Oriental", "Rabat-Salé-Kénitra", "Marrakech-Safi"],
-    "zone_geo": ["Nord", "Centre", "Centre", "Sud", "Centre", "Sud", "Nord", "Est", "Centre", "Sud"],
-    "population": [1200000, 3700000, 580000, 930000, 1200000, 420000, 380000, 490000, 430000, 90000],
-    "code_postal": ["90000", "20000", "10000", "40000", "30000", "80000", "93000", "60000", "14000", "43150"]
-}
-df_regions = pd.DataFrame(regions_data)
-df_regions.to_csv("regions_maroc.csv", index=False, encoding="utf-8")
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / "data"
 
-# --- Génération des produits ---
-categories = ["Électronique", "Mode", "Alimentation"]
-sous_cat = {
-    "Électronique": ["Smartphones", "Ordinateurs", "Accessoires"],
-    "Mode": ["Vêtements", "Chaussures", "Accessoires"],
-    "Alimentation": ["Épicerie", "Boissons", "Produits frais"]
-}
-produits = []
-for i in range(1, 51):
-    cat = random.choice(categories)
-    produits.append({
-        "id_produit": f"P{i:03d}",
-        "nom": f"Produit {i}",
-        "categorie": random.choice([cat, cat.lower(), cat.upper()]),  # Casse incohérente
-        "sous_categorie": random.choice(sous_cat[cat]),
-        "marque": random.choice(["Apple", "Samsung", "Nike", "Adidas", "Marjane", "Carrefour"]),
-        "fournisseur": f"Fournisseur {random.randint(1,10)}",
-        "prix_catalogue": random.choice([random.uniform(100, 15000), None]),
-        "origine_pays": random.choice(["Maroc", "France", "Chine", "USA", "Turquie"]),
-        "date_creation": (datetime(2020,1,1) + timedelta(days=random.randint(0, 1500))).strftime("%Y-%m-%d"),
-        "actif": random.choice([True, True, True, False])  # 25% inactifs
-    })
-with open("produits_mexora.json", "w", encoding="utf-8") as f:
-    json.dump({"produits": produits}, f, ensure_ascii=False, indent=2)
+SEED = 42
+NOMS = ["Alami", "Benani", "Chraibi", "Dahbi", "El Amrani", "Fassi", "Ghazi", "Hassani", "Idrissi", "Jabri"]
+PRENOMS = ["Ahmed", "Fatima", "Youssef", "Amina", "Omar", "Sara", "Karim", "Laila", "Mehdi", "Nadia"]
 
-# --- Génération des clients ---
-noms = ["Alami", "Benani", "Chraibi", "Dahbi", "El Amrani", "Fassi", "Ghazi", "Hassani"]
-prenoms = ["Ahmed", "Fatima", "Youssef", "Amina", "Omar", "Sara", "Karim", "Laila"]
-clients = []
-for i in range(1, 1001):
-    email = f"client{i}@{'gmail' if random.random() > 0.1 else 'invalid'}.com"
-    if random.random() < 0.05:
-        email = email.replace("@", "")  # Email invalide
-    
-    sexe_var = random.choice(["M", "F", "m", "f", "1", "0", "Homme", "Femme", "male", "female", ""])
-    
-    clients.append({
-        "id_client": f"C{i:04d}",
-        "nom": random.choice(noms),
-        "prenom": random.choice(prenoms),
-        "email": email,
-        "date_naissance": (datetime(1950,1,1) + timedelta(days=random.randint(0, 25000))).strftime("%Y-%m-%d"),
-        "sexe": sexe_var,
-        "ville": random.choice(["Tanger", "tanger", "TNG", "TANGER", "Tnja", "Casablanca", "Rabat", "Marrakech"]),
-        "telephone": f"06{random.randint(10000000, 99999999)}",
-        "date_inscription": (datetime(2022,1,1) + timedelta(days=random.randint(0, 800))).strftime("%Y-%m-%d"),
-        "canal_acquisition": random.choice(["SEO", "Ads", "Email", "Partenaire", "Direct"])
-    })
-# Ajouter quelques doublons d'emails
-for i in range(5):
-    clients.append({**clients[i], "id_client": f"C{1001+i:04d}"})
-df_clients = pd.DataFrame(clients)
-df_clients.to_csv("clients_mexora.csv", index=False, encoding="utf-8")
 
-# --- Génération des commandes (50 000 lignes) ---
-commandes = []
-produit_ids = [p["id_produit"] for p in produits]
-client_ids = [c["id_client"] for c in clients]
-status_options = ["livré", "LIVRE", "DONE", "annulé", "KO", "en_cours", "OK", "retourné", ""]
-
-for i in range(1, 50001):
-    date_cmd = datetime(2023, 1, 1) + timedelta(days=random.randint(0, 730))
-    date_fmt = random.choice([
-        date_cmd.strftime("%d/%m/%Y"),
-        date_cmd.strftime("%Y-%m-%d"),
-        date_cmd.strftime("%b %d %Y")
-    ])
-    
-    ville = random.choice(["Tanger", "tanger", "TNG", "TANGER", "Tnja", "Casablanca", "Rabat", "Marrakech", "Fès", "Agadir"])
-    
-    commandes.append({
-        "id_commande": f"CMD{random.randint(1, 48500):06d}",  # Doublons intentionnels (~3%)
-        "id_client": random.choice(client_ids),
-        "id_produit": random.choice(produit_ids),
-        "date_commande": date_fmt,
-        "quantite": random.choice([random.randint(1, 5), random.randint(-3, -1), 0]),  # Négatifs possibles
-        "prix_unitaire": random.choice([round(random.uniform(50, 12000), 2), 0]),  # Prix 0 possibles
-        "statut": random.choice(status_options),
-        "ville_livraison": ville,
-        "mode_paiement": random.choice(["Carte", "Cash", "Virement", "PayPal"]),
-        "id_livreur": random.choice([f"L{random.randint(1,50):03d}", None, None, None, None, None, None]),  # 7% manquants
-        "date_livraison": (date_cmd + timedelta(days=random.randint(1, 7))).strftime("%Y-%m-%d") if random.random() > 0.1 else ""
+def generate_regions() -> pd.DataFrame:
+    return pd.DataFrame({
+        "code_ville": ["TNG", "CAS", "RBT", "MRK", "FES", "AGD", "TET", "OUJ", "KNT", "BEN", "SAF", "MKN"],
+        "nom_ville_standard": ["Tanger", "Casablanca", "Rabat", "Marrakech", "Fès", "Agadir", "Tétouan", "Oujda", "Kénitra", "Benguerir", "Safi", "Meknès"],
+        "province": ["Tanger-Assilah", "Casablanca", "Rabat", "Marrakech", "Fès", "Agadir-Ida Ou Tanane", "Tétouan", "Oujda-Angad", "Kénitra", "Rehamna", "Safi", "Meknès"],
+        "region_admin": ["Tanger-Tétouan-Al Hoceïma", "Casablanca-Settat", "Rabat-Salé-Kénitra", "Marrakech-Safi", "Fès-Meknès", "Souss-Massa", "Tanger-Tétouan-Al Hoceïma", "Oriental", "Rabat-Salé-Kénitra", "Marrakech-Safi", "Marrakech-Safi", "Fès-Meknès"],
+        "zone_geo": ["Nord", "Centre", "Centre", "Sud", "Centre", "Sud", "Nord", "Est", "Centre", "Sud", "Sud", "Centre"],
+        "population": [1200000, 3700000, 580000, 930000, 1200000, 420000, 380000, 490000, 430000, 90000, 310000, 630000],
+        "code_postal": ["90000", "20000", "10000", "40000", "30000", "80000", "93000", "60000", "14000", "43150", "46000", "50000"],
     })
 
-df_commandes = pd.DataFrame(commandes)
-df_commandes.to_csv("commandes_mexora.csv", index=False, encoding="utf-8")
 
-print("✅ Données générées avec succès !")
-print(f"   Commandes : {len(df_commandes)} lignes")
-print(f"   Clients : {len(df_clients)} lignes")
-print(f"   Produits : {len(produits)} lignes")
-print(f"   Régions : {len(df_regions)} lignes")
+def generate_products(n_products: int) -> list[dict]:
+    categories = {
+        "Électronique": ["Smartphones", "Ordinateurs", "Accessoires"],
+        "Mode": ["Vêtements", "Chaussures", "Accessoires"],
+        "Alimentation": ["Épicerie", "Boissons", "Produits frais"],
+        "Maison": ["Cuisine", "Décoration", "Rangement"],
+    }
+    brands = ["Apple", "Samsung", "Nike", "Adidas", "Marjane", "Carrefour", "Ikea", "Xiaomi"]
+    products = []
+    for i in range(1, n_products + 1):
+        category = random.choice(list(categories.keys()))
+        noisy_category = random.choice([category, category.lower(), category.upper()])
+        products.append({
+            "id_produit": f"P{i:03d}",
+            "nom": f"{random.choice(['Pack', 'Article', 'Produit', 'Selection'])} {i}",
+            "categorie": noisy_category,
+            "sous_categorie": random.choice(categories[category]),
+            "marque": random.choice(brands),
+            "fournisseur": f"Fournisseur {random.randint(1, 15)}",
+            "prix_catalogue": random.choice([round(random.uniform(25, 15000), 2), None, 0]),
+            "origine_pays": random.choice(["Maroc", "France", "Chine", "USA", "Turquie", None]),
+            "date_creation": (datetime(2020, 1, 1) + timedelta(days=random.randint(0, 1600))).strftime("%Y-%m-%d"),
+            "actif": random.choice([True, True, True, False]),
+        })
+    return products
+
+
+def generate_clients(n_clients: int) -> pd.DataFrame:
+    villes_sales = [
+        "Tanger", "tanger", "TNG", "TANGER", "Tnja", "Casablanca", "Casa",
+        "Rabat", "Marrakech", "Fes", "Fès", "Agadir", "Ville Fantome", ""
+    ]
+    rows = []
+    for i in range(1, n_clients + 1):
+        email = f"client{i}@{random.choice(['gmail.com', 'outlook.com', 'mexora.ma'])}"
+        if random.random() < 0.07:
+            email = random.choice([email.replace("@", ""), f"client{i}@invalid", "", None])
+        rows.append({
+            "id_client": f"C{i:05d}",
+            "nom": random.choice(NOMS),
+            "prenom": random.choice(PRENOMS),
+            "email": email,
+            "date_naissance": (datetime(1950, 1, 1) + timedelta(days=random.randint(0, 26000))).strftime("%Y-%m-%d"),
+            "sexe": random.choice(["M", "F", "m", "f", "1", "0", "Homme", "Femme", "male", "female", ""]),
+            "ville": random.choice(villes_sales),
+            "telephone": random.choice([f"06{random.randint(10000000, 99999999)}", "0600", "", None]),
+            "date_inscription": (datetime(2021, 1, 1) + timedelta(days=random.randint(0, 1500))).strftime("%Y-%m-%d"),
+            "canal_acquisition": random.choice(["SEO", "Ads", "Email", "Partenaire", "Direct", None]),
+        })
+
+    # Doublons volontaires : même email, id client différent.
+    for i in range(20):
+        duplicated = rows[i].copy()
+        duplicated["id_client"] = f"C{n_clients + i + 1:05d}"
+        rows.append(duplicated)
+    return pd.DataFrame(rows)
+
+
+def generate_orders(n_orders: int, products: list[dict], clients: pd.DataFrame) -> pd.DataFrame:
+    product_ids = [p["id_produit"] for p in products]
+    client_ids = clients["id_client"].tolist()
+    statuses = ["livré", "LIVRE", "DONE", "annulé", "KO", "en_cours", "OK", "retourné", ""]
+    ville_sales = ["Tanger", "tanger", "TNG", "TANGER", "Tnja", "Casablanca", "Casa", "Rabat", "Marrakech", "Fès", "Fes", "Agadir", "Nowhere"]
+    rows = []
+    for i in range(1, n_orders + 1):
+        date_cmd = datetime(2023, 1, 1) + timedelta(days=random.randint(0, 1094))
+        date_fmt = random.choice([
+            date_cmd.strftime("%d/%m/%Y"),
+            date_cmd.strftime("%Y-%m-%d"),
+            date_cmd.strftime("%b %d %Y"),
+            "32/13/2024" if random.random() < 0.01 else date_cmd.strftime("%d-%m-%Y"),
+        ])
+        rows.append({
+            "id_commande": f"CMD{random.randint(1, int(n_orders * 0.97)):07d}",
+            "id_client": random.choice(client_ids),
+            "id_produit": random.choice(product_ids),
+            "date_commande": date_fmt,
+            "quantite": random.choice([
+                random.randint(1, 5), random.randint(1, 5), random.randint(1, 5),
+                random.randint(-3, -1), 0, None
+            ]),
+            "prix_unitaire": random.choice([
+                round(random.uniform(20, 12000), 2), round(random.uniform(20, 12000), 2),
+                round(random.uniform(20, 12000), 2), 0, None
+            ]),
+            "statut": random.choice(statuses),
+            "ville_livraison": random.choice(ville_sales),
+            "mode_paiement": random.choice(["Carte", "Cash", "Virement", "PayPal", ""]),
+            "id_livreur": random.choice([f"L{random.randint(1, 60):03d}", None, "", "-"]),
+            "date_livraison": (date_cmd + timedelta(days=random.randint(-2, 10))).strftime("%Y-%m-%d") if random.random() > 0.08 else "",
+        })
+    return pd.DataFrame(rows)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Génère les données réalistes Mexora avec anomalies contrôlées.")
+    parser.add_argument("--orders", type=int, default=50000)
+    parser.add_argument("--clients", type=int, default=2500)
+    parser.add_argument("--products", type=int, default=120)
+    args = parser.parse_args()
+
+    random.seed(SEED)
+    np.random.seed(SEED)
+    DATA_DIR.mkdir(exist_ok=True)
+
+    regions = generate_regions()
+    products = generate_products(args.products)
+    clients = generate_clients(args.clients)
+    orders = generate_orders(args.orders, products, clients)
+
+    regions.to_csv(DATA_DIR / "regions_maroc.csv", index=False, encoding="utf-8")
+    clients.to_csv(DATA_DIR / "clients_mexora.csv", index=False, encoding="utf-8")
+    orders.to_csv(DATA_DIR / "commandes_mexora.csv", index=False, encoding="utf-8")
+    with open(DATA_DIR / "produits_mexora.json", "w", encoding="utf-8") as f:
+        json.dump({"produits": products}, f, ensure_ascii=False, indent=2)
+
+    print("Données Mexora générées avec succès")
+    print(f"Commandes : {len(orders)}")
+    print(f"Clients   : {len(clients)}")
+    print(f"Produits  : {len(products)}")
+    print(f"Régions   : {len(regions)}")
+
+
+if __name__ == "__main__":
+    main()

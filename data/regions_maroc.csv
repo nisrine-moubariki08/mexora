@@ -1,11 +1,13 @@
 code_ville,nom_ville_standard,province,region_admin,zone_geo,population,code_postal
-TNG,Tanger,Tanger-Assilah,Tanger-Tétouan-Al Hoceïma,Nord,947952,90000
-CAS,Casablanca,Casablanca,Casablanca-Settat,Centre,3752000,20000
-RBA,Rabat,Rabat,Rabat-Salé-Kénitra,Centre,577827,10000
-FES,Fès,Fès,Fès-Meknès,Centre,1112072,30000
-MRK,Marrakech,Marrakech,Marrakech-Safi,Sud,928850,40000
-AGD,Agadir,Agadir-Ida-Ou-Tanane,Souss-Massa,Sud,421844,80000
-OUD,Oujda,Oujda-Angad,Oriental,Est,494252,60000
-MKN,Meknès,Meknès,Fès-Meknès,Centre,632079,50000
-TET,Tétouan,Tétouan,Tanger-Tétouan-Al Hoceïma,Nord,380787,93000
-SFI,Safi,Safi,Marrakech-Safi,Sud,308508,46000
+TNG,Tanger,Tanger-Assilah,Tanger-Tétouan-Al Hoceïma,Nord,1200000,90000
+CAS,Casablanca,Casablanca,Casablanca-Settat,Centre,3700000,20000
+RBT,Rabat,Rabat,Rabat-Salé-Kénitra,Centre,580000,10000
+MRK,Marrakech,Marrakech,Marrakech-Safi,Sud,930000,40000
+FES,Fès,Fès,Fès-Meknès,Centre,1200000,30000
+AGD,Agadir,Agadir-Ida Ou Tanane,Souss-Massa,Sud,420000,80000
+TET,Tétouan,Tétouan,Tanger-Tétouan-Al Hoceïma,Nord,380000,93000
+OUJ,Oujda,Oujda-Angad,Oriental,Est,490000,60000
+KNT,Kénitra,Kénitra,Rabat-Salé-Kénitra,Centre,430000,14000
+BEN,Benguerir,Rehamna,Marrakech-Safi,Sud,90000,43150
+SAF,Safi,Safi,Marrakech-Safi,Sud,310000,46000
+MKN,Meknès,Meknès,Fès-Meknès,Centre,630000,50000

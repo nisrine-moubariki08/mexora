@@ -33,6 +33,8 @@ def setup_logger():
     # Logger principal
     logger = logging.getLogger("mexora_etl")
     logger.setLevel(logging.INFO)
+    if logger.handlers:
+        return logger
     logger.addHandler(file_handler)
     logger.addHandler(console_handler)
 
